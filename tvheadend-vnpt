@@ -138,7 +138,7 @@ http://192.167.2.20:9981/stream/channelid/1206328594?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/5nrSZd8.png" tvg-id="8e0e8a2afb325b98a94a8c7475d24852" tvg-chno="81",SCTV12 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/713690766?profile=pass
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13 HD
+#EXTINF:-1 logo="https://i.imgur.com/3i51qm8.png",SCTV13 HD
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/1yNMyEh.png" tvg-id="1a9945b81dc76effac6720b5ac14762b" tvg-chno="82",SCTV14 (HD 7Mbps)
