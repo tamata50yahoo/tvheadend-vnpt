@@ -138,29 +138,36 @@ http://192.167.2.20:9981/stream/channelid/1206328594?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/5nrSZd8.png" tvg-id="8e0e8a2afb325b98a94a8c7475d24852" tvg-chno="81",SCTV12 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/713690766?profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/3i51qm8.png",SCTV13 HD
+#EXTINF:-1 logo="https://i.imgur.com/3i51qm8.png" tvg-chno="82",SCTV13 HD
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/1yNMyEh.png" tvg-id="1a9945b81dc76effac6720b5ac14762b" tvg-chno="82",SCTV14 (HD 7Mbps)
+
+
+#EXTINF:-1 logo="https://i.imgur.com/PEz2Ieq.png" tvg-id="1a9945b81dc76effac6720b5ac14762b" tvg-chno="83",SCTV14 HD
 http://192.167.2.20:9981/stream/channelid/944085274?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/b4ZROQG.png" tvg-id="756d123040ec7ce423ed93425e2880c9" tvg-chno="84",SCTV16 (HD 7Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/EPwjrlB.png" tvg-id="c3a8c144c3c38376b6d8c648e2d7adb1" tvg-chno="84",SCTV15 HD
+http://192.167.2.20:9981/stream/channelid/1153542339?profile=pass
+
+
+#EXTINF:-1 logo="https://i.imgur.com/b4ZROQG.png" tvg-id="756d123040ec7ce423ed93425e2880c9" tvg-chno="85",SCTV16 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/806514037?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="6048c6ee9f346d5a15489385be9c91d2" tvg-chno="85",SCTV17 (HD 7Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="6048c6ee9f346d5a15489385be9c91d2" tvg-chno="86",SCTV17 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1858488416?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="9fc3f2effa8197554d0440388352859e" tvg-chno="86",SCTV18 (HD 6Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="9fc3f2effa8197554d0440388352859e" tvg-chno="87",SCTV18 (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/1878180767?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/s4vfvNb.png" tvg-id="1a297583fbe24e54c3d13b0d1b1542eb" tvg-chno="87",SCTV19 (HD 7Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/s4vfvNb.png" tvg-id="1a297583fbe24e54c3d13b0d1b1542eb" tvg-chno="88",SCTV19 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/58009882?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/zwfqboB.png" tvg-id="e5cbab6ae110a7f54163411cfe236f55" tvg-chno="88",SCTV20 (HD 7Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/zwfqboB.png" tvg-id="e5cbab6ae110a7f54163411cfe236f55" tvg-chno="89",SCTV20 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1789643749?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/aHKybQW.png" tvg-id="3e80534b245927ff0fad417e042c5bc3" tvg-chno="89",SCTV21 (HD 7Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/aHKybQW.png" tvg-id="3e80534b245927ff0fad417e042c5bc3" tvg-chno="90",SCTV21 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1263763518?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/O0HdUpB.png" tvg-id="683481a564ec24a5c3423a27afe55851" tvg-chno="90",SCTV22 (HD 7Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/O0HdUpB.png" tvg-id="683481a564ec24a5c3423a27afe55851" tvg-chno="91",SCTV22 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/629224552?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/VzZYa4n.png" tvg-id="673c44ff633a57918cc93b0909c3aee2" tvg-chno="91",SCTV Phim Tổng Hợp (HD 6Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/VzZYa4n.png" tvg-id="673c44ff633a57918cc93b0909c3aee2" tvg-chno="92",SCTV Phim Tổng Hợp (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/2135178343?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/As4bwUs.png" tvg-id="b0384ff95172bf18b181d8b1a11a530a" tvg-chno="92",K+ Cine (HD 9Mbps)
-http://192.167.2.20:9981/stream/channelid/2035234992?profile=pass
+
+
+
 #EXTINF:-1 logo="https://i.imgur.com/As4bwUs.png" tvg-id="1687cd457710863408818b9c911c86ba" tvg-chno="93",K+ Cine (HD 9Mbps)
 http://192.167.2.20:9981/stream/channelid/1171097366?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/QPkuBRi.png" tvg-id="c8d10b5ac29a3aabdcb5c3b2451ab050" tvg-chno="94",K+ Action (HD 9Mbps)
