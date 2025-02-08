@@ -121,16 +121,22 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://7pal.short.gy/wwenw
 
 #-------------------K++-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="5b70a478aebf7aae74b56796755dc212" group-title="K+" tvg-chno="99",K+ Sport 2 (HD 9Mbps)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="1687cd457710863408818b9c911c86ba" group-title="K+" tvg-chno="95",K+Cine HD
+http://192.167.2.20:9981/stream/channelid/1171097366?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="b654c8ad33091ed84b3e5ad5ced2fdac" group-title="K+" tvg-chno="96",K+Action
+http://192.167.2.20:9981/stream/channelid/768103606?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="7da33bd2991d4f4f5fe8b5813f83a035" group-title="K+" tvg-chno="97",K+Sport1 HD
+http://192.167.2.20:9981/stream/channelid/1379640189?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="5b70a478aebf7aae74b56796755dc212" group-title="K+" tvg-chno="99",K+Sport2 HD
 http://192.167.2.20:9981/stream/channelid/2024042587?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="3688135101073f2fb28fa3a596c23fc6" group-title="K+" tvg-chno="101",K+ Cine
-http://192.167.2.20:9981/stream/channelid/1360234550?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="1cd8ff1072c966962cd02db5121651b7" group-title="K+" tvg-chno="102",K+ Action
-http://192.167.2.20:9981/stream/channelid/285202460?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="2779275f1fb0adf96c2163a7c3b636b3" group-title="K+" tvg-chno="103",K+ Sport 1
-http://192.167.2.20:9981/stream/channelid/1596422439?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="e87af8bdcaeff5ac7752b3dd04ced8cb" group-title="K+" tvg-chno="105",K+ Kids
-http://192.167.2.20:9981/stream/channelid/1039694568?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="b21c734793834cdd67879bf259fb12e5" group-title="K+" tvg-chno="100",K+ Kids
+http://192.167.2.20:9981/stream/channelid/1198726322?profile=pass
+
 
 #-------------------HTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLm4dbV.png" tvg-id="4138b0dce181e11b67a8635d19dae7c9" group-title="HTV" tvg-chno="106",HTV1 (HD 6Mbps)
