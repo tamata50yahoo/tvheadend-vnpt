@@ -115,6 +115,11 @@ http://192.167.2.20:9981/stream/channelid/629224552?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="673c44ff633a57918cc93b0909c3aee2" group-title="SCTV" tvg-chno="92",SCTV Phim Tổng Hợp (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/2135178343?profile=pass
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png"  tvg-id="fightnetwork" group-title="SCTV" tvg-chno="93", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0X8u8w.png" tvg-id="wwe" group-title="SCTV" tvg-chno="94", WWE
+https://7pal.short.gy/wwenw
+
 #-------------------K++-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="5b70a478aebf7aae74b56796755dc212" group-title="K+" tvg-chno="99",K+ Sport 2 (HD 9Mbps)
 http://192.167.2.20:9981/stream/channelid/2024042587?profile=pass
