@@ -84,6 +84,12 @@ http://192.167.2.20:9981/stream/channelid/1110198633?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="b16eabe0bd3fe0875a54f9162bc44e57" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/1621847729?profile=pass
 
+#EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1  group-title="SCTV" tvg-logo="https://i.imgur.com/g0X8u8w.png", WWE
+https://7pal.short.gy/wwenw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="92ba35ecdaa044442d5d22a253bbdf3a" group-title="SCTV" tvg-chno="176",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1815460498?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="d1f6506aebc976ed5af9a225e2e5c6b8" group-title="SCTV" tvg-chno="177",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
