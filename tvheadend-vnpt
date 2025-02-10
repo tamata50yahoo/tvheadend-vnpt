@@ -316,6 +316,15 @@ http://192.167.2.20:9981/stream/channelid/1309656369?profile=pass
 http://192.167.2.20:9981/stream/channelid/926880321?profile=pass
 
 #------------------------Địa phương------------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="cd5a27b86aa7607b4dfff81a762a5662" group-title="Dia phuong" tvg-chno="242",THVL1 _ TH Vĩnh Long
+http://192.167.2.20:9981/stream/channelid/942103245?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="da99917ce199d532a969d1fd6738778f" group-title="Dia phuong" tvg-chno="243",THVL2 _ TH Vĩnh Long
+http://192.167.2.20:9981/stream/channelid/2089916890?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="8e9fe11954109bac0b3c8353668282f1" group-title="Dia phuong" tvg-chno="244",THVL3 _ TH Vĩnh Long
+http://192.167.2.20:9981/stream/channelid/434216846?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="94a975d9b19ee97dde9739213d48d75e" group-title="Dia phuong" tvg-chno="245",THVL4 _ TH Vĩnh Long
+http://192.167.2.20:9981/stream/channelid/1500883348?profile=pass
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AELRXuX.png" tvg-id="ab4e3d662697797b914d67260107fb81" group-title="Dia phuong" tvg-chno="140",YTV HD _ TH Yên Bái (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/1715293867?profile=pass
@@ -514,14 +523,7 @@ http://192.167.2.20:9981/stream/channelid/772059788?profile=pass
 http://192.167.2.20:9981/stream/channelid/470825691?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9UZtJvv.png" tvg-id="985341aa8074c23b07c545515a9a7fa6" group-title="Dia phuong" tvg-chno="241",THBT _ TH Bến Tre
 http://192.167.2.20:9981/stream/channelid/708924312?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="cd5a27b86aa7607b4dfff81a762a5662" group-title="Dia phuong" tvg-chno="242",THVL1 _ TH Vĩnh Long
-http://192.167.2.20:9981/stream/channelid/942103245?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="da99917ce199d532a969d1fd6738778f" group-title="Dia phuong" tvg-chno="243",THVL2 _ TH Vĩnh Long
-http://192.167.2.20:9981/stream/channelid/2089916890?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="8e9fe11954109bac0b3c8353668282f1" group-title="Dia phuong" tvg-chno="244",THVL3 _ TH Vĩnh Long
-http://192.167.2.20:9981/stream/channelid/434216846?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="94a975d9b19ee97dde9739213d48d75e" group-title="Dia phuong" tvg-chno="245",THVL4 _ TH Vĩnh Long
-http://192.167.2.20:9981/stream/channelid/1500883348?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHOm6Ll.png" tvg-id="9a80bbdc529e635ac03a4936582c2f56" group-title="Dia phuong" tvg-chno="246",THTV _ TH Trà Vinh
 http://192.167.2.20:9981/stream/channelid/1555792026?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3joZFM.png" tvg-id="ce74a2a5f7adc2fed74fee4a5211e81e" group-title="Dia phuong" tvg-chno="247",HGTV _ TH Hậu Giang
