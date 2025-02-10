@@ -39,49 +39,49 @@ http://192.167.2.20:9981/stream/channelid/455605775?profile=pass
 
 #------------------------SCTV------------------------#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" tvg-id="aa0b6cfe5811e023baf2106892e383ee" group-title="SCTV" tvg-chno="16",SCTV1 (HD 5Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" tvg-id="sctv1hd" group-title="SCTV" tvg-chno="16",SCTV1 (HD 5Mbps)
 http://192.167.2.20:9981/stream/channelid/2121010090?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" tvg-id="8162fb16226f1e9252bd98b0bbd2055a" group-title="SCTV" tvg-chno="17",SCTV2 (HD 6Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" tvg-id="sctv2hd" group-title="SCTV" tvg-chno="17",SCTV2 (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/385573505?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" tvg-id="7cb9005adbbcf63ca87315484a0fa1cb" group-title="SCTV" tvg-chno="18",SCTV3 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" tvg-id="sctv3hd" group-title="SCTV" tvg-chno="18",SCTV3 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1509996924?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" tvg-id="350e2dcfe8190f9c35877246213124c7" group-title="SCTV" tvg-chno="19",SCTV4 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" tvg-id="sctv4hd" group-title="SCTV" tvg-chno="19",SCTV4 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1328352821?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="3a98149ec1abe383f491ef043dd6174d" group-title="SCTV" tvg-chno="20",SCTV6 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="sctv6hd" group-title="SCTV" tvg-chno="20",SCTV6 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/504666170?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" tvg-id="9d669cb1c77c0d604fd64b5f81a1d5b7" group-title="SCTV" tvg-chno="21",SCTV7 (HD 6Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" tvg-id="sctv7hd" group-title="SCTV" tvg-chno="21",SCTV7 (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/832333469?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" tvg-id="075211ecc9ef52352cf606e6d5255ff5" group-title="SCTV" tvg-chno="22",SCTV8 (HD 5Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" tvg-id="sctv8hd" group-title="SCTV" tvg-chno="22",SCTV8 (HD 5Mbps)
 http://192.167.2.20:9981/stream/channelid/1813074439?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" tvg-id="836e8f95c4624dbd098a1646073f8301" group-title="SCTV" tvg-chno="23",SCTV9 (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" tvg-id="sctv9hd" group-title="SCTV" tvg-chno="23",SCTV9 (HD 8Mbps)
 http://192.167.2.20:9981/stream/channelid/361721475?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" tvg-id="0cb973fb229a136b42480dd54aaa2e4f" group-title="SCTV" tvg-chno="24",SCTV11 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" tvg-id="sctv11hd" group-title="SCTV" tvg-chno="24",SCTV11 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/2071181580?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" tvg-id="eaf0086d9037e3c9cf96548ab8760a33" group-title="SCTV" tvg-chno="25",SCTV12 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" tvg-id="sctv12hd" group-title="SCTV" tvg-chno="25",SCTV12 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1829302506?profile=pass
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i51qm8.png" tvg-id="sctv13hd" group-title="SCTV",SCTV13 HD
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" tvg-id="356cb4a3502f01054c323e1cdd6aec8c" group-title="SCTV" tvg-chno="27",SCTV14 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" tvg-id="sctv14hd" group-title="SCTV" tvg-chno="27",SCTV14 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/599026741?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" tvg-id="ae3177172c513a30c21254ec76652d75" group-title="SCTV" tvg-chno="28",SCTV15 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" tvg-id="sctv51hd" group-title="SCTV" tvg-chno="28",SCTV15 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/393687470?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" tvg-id="9bf5d677c830b45b75a481a42f2624af" group-title="SCTV" tvg-chno="29",SCTV16 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" tvg-id="sctv16hd" group-title="SCTV" tvg-chno="29",SCTV16 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/2010576283?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="2f65b542d3d50a1153fb9d6f79dac826" group-title="SCTV" tvg-chno="30",SCTV17 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="sctv17hd" group-title="SCTV" tvg-chno="30",SCTV17 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1119184175?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="4f2c6b8c62315401b7af8cc47e2a22d8" group-title="SCTV" tvg-chno="31",SCTV18 (HD 6Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="sctv18hd" group-title="SCTV" tvg-chno="31",SCTV18 (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/208350287?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" tvg-id="7bdb3bfab6befbf82d28e8f1f2082bd1" group-title="SCTV" tvg-chno="32",SCTV19 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" tvg-id="sctv19hd" group-title="SCTV" tvg-chno="32",SCTV19 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/2050743163?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" tvg-id="21c0ca0316378810eef68338876a35a8" group-title="SCTV" tvg-chno="33",SCTV20 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" tvg-id="sctv20hd" group-title="SCTV" tvg-chno="33",SCTV20 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/63619105?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" tvg-id="2fdc9c88d36525b915aeeb7f4ca924e0" group-title="SCTV" tvg-chno="34",SCTV21 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" tvg-id="sctv21hd" group-title="SCTV" tvg-chno="34",SCTV21 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/144497711?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" tvg-id="69492c420778c93cc710fafc159ee5ab" group-title="SCTV" tvg-chno="35",SCTV22 (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" tvg-id="sctv22hd" group-title="SCTV" tvg-chno="35",SCTV22 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1110198633?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="b16eabe0bd3fe0875a54f9162bc44e57" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp (HD 6Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="scthdpth" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp (HD 6Mbps)
 http://192.167.2.20:9981/stream/channelid/1621847729?profile=pass
 
 #EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
@@ -90,13 +90,13 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  group-title="SCTV" tvg-logo="https://i.imgur.com/g0X8u8w.png", WWE
 https://7pal.short.gy/wwenw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="92ba35ecdaa044442d5d22a253bbdf3a" group-title="SCTV" tvg-chno="176",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="vinhlong1hd" group-title="SCTV" tvg-chno="176",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1815460498?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="d1f6506aebc976ed5af9a225e2e5c6b8" group-title="SCTV" tvg-chno="177",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="vinhlong2hd" group-title="SCTV" tvg-chno="177",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
 http://192.167.2.20:9981/stream/channelid/1783690961?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="c8968df65471ad81e6443e54afabece6" group-title="SCTV" tvg-chno="178",THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="vinhlong3hd" group-title="SCTV" tvg-chno="178",THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1988990664?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="97f3d6ce0502879631eed138149afdf6" group-title="SCTV" tvg-chno="179",THVL4 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="vinhlong4hd" group-title="SCTV" tvg-chno="179",THVL4 HD _ TH Vĩnh Long (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1322709911?profile=pass
 
 #------------------------K+------------------------#
