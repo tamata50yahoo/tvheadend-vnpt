@@ -200,9 +200,9 @@ http://192.167.2.20:9981/stream/channelid/1788642199?profile=pass
 
 #------------------------Quốc Tế------------------------#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="0e4345a57038d622a2c718d249464c72" group-title="Quoc te" tvg-chno="265",Cinemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="5ac75ae9e7d741d84967b568ae227eb1" group-title="Quoc te" tvg-chno="265",Cinemax
 http://192.167.2.20:9981/stream/channelid/625296142?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="ba2499a8f606776cf38634dffe1af39f" group-title="Quoc te" tvg-chno="266",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="27eb0a4c3994f35ae73b7389a5005069" group-title="Quoc te" tvg-chno="266",HBO
 http://192.167.2.20:9981/stream/channelid/681125050?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="5ac75ae9e7d741d84967b568ae227eb1" group-title="Quoc te" tvg-chno="76",Cinemax-SD
