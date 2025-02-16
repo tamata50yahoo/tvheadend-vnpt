@@ -583,5 +583,3 @@ http://192.167.2.20:9981/stream/channelid/1581921?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8JlcPP.png" tvg-id="d552a496768f9fa427118833f72ddbb2" group-title="Event" tvg-chno="264",BTV6
 http://192.167.2.20:9981/stream/channelid/379867861?profile=pass
 
-#https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp#
-#https://raw.githubusercontent.com/ntd249/ntdiptv/refs/heads/main/fptudp#
