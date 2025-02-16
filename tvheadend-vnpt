@@ -12,8 +12,7 @@ http://192.167.2.20:9981/stream/channelid/48459602?profile=pass
 http://192.167.2.20:9981/stream/channelid/1389938789?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="549232bd54c9b92fb669a551c34b817c" group-title="VTV" tvg-chno="4",VTV4 (HD 8.5Mbps)
 http://192.167.2.20:9981/stream/channelid/1026724436?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="64ef779b656f60a37aa11768688fa6c6" group-title="VTV" tvg-chno="5",VTV4 (HD 8.5Mbps)
-http://192.167.2.20:9981/stream/channelid/460844900?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="df1cf895b1a40ccf4426725a2a8b4692" group-title="VTV" tvg-chno="6",VTV5 (HD 8.5Mbps)
 http://192.167.2.20:9981/stream/channelid/368581855?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" tvg-id="77ef55f3d275056846ec076b8c9f30c3" group-title="VTV" tvg-chno="7",VTV Cần Thơ (HD 8.5Mbps)
