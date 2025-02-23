@@ -100,27 +100,27 @@ http://192.167.2.20:9981/stream/channelid/1322709911?profile=pass
 
 #------------------------K+------------------------#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="9540ad8ea7430ac0f04105a4159236cf" tvg-chno="266",K+ Cine HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="9540ad8ea7430ac0f04105a4159236cf" group-title="K+" tvg-chno="266",K+ Cine HD
 http://192.167.2.20:9981/stream/channelid/1385817993?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="8160b09e8578ec62074cd79acc462bfa" tvg-chno="267",K+ Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="8160b09e8578ec62074cd79acc462bfa" group-title="K+" tvg-chno="267",K+ Action HD
 http://192.167.2.20:9981/stream/channelid/150005853?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="6c9df32ce01dbcfa8f083b169ddc7ce8" tvg-chno="268",K+ Sport 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="6c9df32ce01dbcfa8f083b169ddc7ce8" group-title="K+" tvg-chno="268",K+ Sport 1 HD
 http://192.167.2.20:9981/stream/channelid/1872273555?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="7adc75b82404cf80b7faa6e23acb8c3c" tvg-chno="269",K+ Sport 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="7adc75b82404cf80b7faa6e23acb8c3c" group-title="K+" tvg-chno="269",K+ Sport 2 HD
 http://192.167.2.20:9981/stream/channelid/607961467?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="072e2af72614774ccac7f01bd1c41fd6" tvg-chno="40",K+ Kids HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="072e2af72614774ccac7f01bd1c41fd6" group-title="K+" tvg-chno="40",K+ Kids HD
 http://192.167.2.20:9981/stream/channelid/1999252999?profile=pass
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="9540ad8ea7430ac0f04105a4159236cf" tvg-chno="36",K+ Cine SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="9540ad8ea7430ac0f04105a4159236cf" group-title="K+" tvg-chno="36",K+ Cine SD
 http://192.167.2.20:9981/stream/channelid/246235285?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="8160b09e8578ec62074cd79acc462bfa" tvg-chno="37",K+ Action SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="8160b09e8578ec62074cd79acc462bfa" group-title="K+" tvg-chno="37",K+ Action SD
 http://192.167.2.20:9981/stream/channelid/514875521?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="6c9df32ce01dbcfa8f083b169ddc7ce8" tvg-chno="38",K+ Sport1 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="6c9df32ce01dbcfa8f083b169ddc7ce8" group-title="K+" tvg-chno="38",K+ Sport1 SD
 http://192.167.2.20:9981/stream/channelid/754163052?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="7adc75b82404cf80b7faa6e23acb8c3c" tvg-chno="39",K+ Sport2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="7adc75b82404cf80b7faa6e23acb8c3c" group-title="K+" tvg-chno="39",K+ Sport2 SD
 http://192.167.2.20:9981/stream/channelid/947248250?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="072e2af72614774ccac7f01bd1c41fd6" tvg-chno="270",K+ Kids SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erWqYxh.png" tvg-id="072e2af72614774ccac7f01bd1c41fd6" group-title="K+" tvg-chno="270",K+ Kids SD
 http://192.167.2.20:9981/stream/channelid/44776340?profile=pass
 
 
