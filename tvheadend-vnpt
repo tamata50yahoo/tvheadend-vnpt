@@ -80,7 +80,7 @@ http://192.167.2.20:9981/stream/channelid/63619105?profile=pass
 http://192.167.2.20:9981/stream/channelid/144497711?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" tvg-id="69492c420778c93cc710fafc159ee5ab" group-title="SCTV" tvg-chno="35",SCTV22 (HD 7Mbps)
 http://192.167.2.20:9981/stream/channelid/1110198633?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="b16eabe0bd3fe0875a54f9162bc44e57" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp (HD 6Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="b16eabe0bd3fe0875a54f9162bc44e57" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp
 http://192.167.2.20:9981/stream/channelid/1621847729?profile=pass
 
 #EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
@@ -157,45 +157,45 @@ http://192.167.2.20:9981/stream/channelid/1137738272?profile=pass
 
 #------------------------VTVcab------------------------#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" tvg-id="f5950f6be947fc8540ec3f27065fecab" group-title="VTVCab" tvg-chno="56",ON Sports HD (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" tvg-id="f5950f6be947fc8540ec3f27065fecab" group-title="VTVCab" tvg-chno="56",ON Sports
 http://192.167.2.20:9981/stream/channelid/1796183541?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" tvg-id="2fb09ba1173db6316eb85d4f710d9d24" group-title="VTVCab" tvg-chno="57",ON Sports+ (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" tvg-id="2fb09ba1173db6316eb85d4f710d9d24" group-title="VTVCab" tvg-chno="57",ON Sports+
 http://192.167.2.20:9981/stream/channelid/563851311?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" tvg-id="9d32362b22eea52ef9fceaf40af639e4" group-title="VTVCab" tvg-chno="58",ON Football HD (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAxiIfP.png" tvg-id="9d32362b22eea52ef9fceaf40af639e4" group-title="VTVCab" tvg-chno="58",ON Football
 http://192.167.2.20:9981/stream/channelid/724972189?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpRXpJg.png" tvg-id="113e2a600347c99182b1b99411eca07e" group-title="VTVCab" tvg-chno="59",ON Sports News (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpRXpJg.png" tvg-id="113e2a600347c99182b1b99411eca07e" group-title="VTVCab" tvg-chno="59",ON Sports News
 http://192.167.2.20:9981/stream/channelid/1613381137?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BGF2I58.png" tvg-id="7fcbbca537656efcbe23e0751b850d9f" group-title="VTVCab" tvg-chno="60",ON Golf (HD 8.5Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGF2I58.png" tvg-id="7fcbbca537656efcbe23e0751b850d9f" group-title="VTVCab" tvg-chno="60",ON Golf
 http://192.167.2.20:9981/stream/channelid/633129855?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmPo7l.png" tvg-id="fb21802015b7a6c0c9d439e78f39528e" group-title="VTVCab" tvg-chno="61",ON BiBi (HD 8.5Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmPo7l.png" tvg-id="fb21802015b7a6c0c9d439e78f39528e" group-title="VTVCab" tvg-chno="61",ON BiBi
 http://192.167.2.20:9981/stream/channelid/545268219?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f9ngwY.png" tvg-id="886d4b10eed571835d1076021d5e3f3f" group-title="VTVCab" tvg-chno="62",ON Cine (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f9ngwY.png" tvg-id="886d4b10eed571835d1076021d5e3f3f" group-title="VTVCab" tvg-chno="62",ON Cine
 http://192.167.2.20:9981/stream/channelid/273378696?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" tvg-id="f1ae1360eaf8793102541a9c97e43085" group-title="VTVCab" tvg-chno="63",ON EChannel (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" tvg-id="f1ae1360eaf8793102541a9c97e43085" group-title="VTVCab" tvg-chno="63",ON EChannel
 http://192.167.2.20:9981/stream/channelid/1611902705?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" tvg-id="e93e2b642adfb4fbed718344c7a97da6" group-title="VTVCab" tvg-chno="64",ON Info TV (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" tvg-id="e93e2b642adfb4fbed718344c7a97da6" group-title="VTVCab" tvg-chno="64",ON Info
 http://192.167.2.20:9981/stream/channelid/1680555753?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2SzhHG.png" tvg-id="0488974f2271700368515a509abccc1a" group-title="VTVCab" tvg-chno="65",ON Kids (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2SzhHG.png" tvg-id="0488974f2271700368515a509abccc1a" group-title="VTVCab" tvg-chno="65",ON Kids
 http://192.167.2.20:9981/stream/channelid/1335330820?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xT5HFx.png" tvg-id="3d5ca7d03f4d1874a870867ec4119e22" group-title="VTVCab" tvg-chno="66",ON Life (HD 7Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xT5HFx.png" tvg-id="3d5ca7d03f4d1874a870867ec4119e22" group-title="VTVCab" tvg-chno="66",ON Life
 http://192.167.2.20:9981/stream/channelid/1353145405?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/765Y3jw.png" tvg-id="c40f25a900979a5e51126716e95c9ff2" group-title="VTVCab" tvg-chno="67",ON Movies (HD 8.5Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/765Y3jw.png" tvg-id="c40f25a900979a5e51126716e95c9ff2" group-title="VTVCab" tvg-chno="67",ON Movies
 http://192.167.2.20:9981/stream/channelid/690294724?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45BXPY3.png" tvg-id="c86e2ea3a0b2d41ba6d6d8caef9c8237" group-title="VTVCab" tvg-chno="68",ON Music (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45BXPY3.png" tvg-id="c86e2ea3a0b2d41ba6d6d8caef9c8237" group-title="VTVCab" tvg-chno="68",ON Music
 http://192.167.2.20:9981/stream/channelid/590245576?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwVkmM.png" tvg-id="c45c74a8ade9dae1d9389284a89cd4c0" group-title="VTVCab" tvg-chno="69",ON O2TV (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwVkmM.png" tvg-id="c45c74a8ade9dae1d9389284a89cd4c0" group-title="VTVCab" tvg-chno="69",ON O2TV
 http://192.167.2.20:9981/stream/channelid/678714564?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png" tvg-id="e45cecb8cbfe6a8ddc005c8e3cb5b1a7" group-title="VTVCab" tvg-chno="70",ON Phim Việt (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png" tvg-id="e45cecb8cbfe6a8ddc005c8e3cb5b1a7" group-title="VTVCab" tvg-chno="70",ON Phim Việt
 http://192.167.2.20:9981/stream/channelid/955014372?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LQ0Z1O.png" tvg-id="3c9bc9928d4ea39cb35518e65fe3c274" group-title="VTVCab" tvg-chno="71",ON Style TV (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6LQ0Z1O.png" tvg-id="3c9bc9928d4ea39cb35518e65fe3c274" group-title="VTVCab" tvg-chno="71",ON Style
 http://192.167.2.20:9981/stream/channelid/315202364?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHYzxmS.png" tvg-id="cd1d6d9f9e6a7aca0dd87b2da05d6a47" group-title="VTVCab" tvg-chno="72",ON Trending TV (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHYzxmS.png" tvg-id="cd1d6d9f9e6a7aca0dd87b2da05d6a47" group-title="VTVCab" tvg-chno="72",ON Trending
 http://192.167.2.20:9981/stream/channelid/527244749?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R82M53x.png" tvg-id="df4ab281ce9ac2ae42ba50619e873fd0" group-title="VTVCab" tvg-chno="73",ON VFamily (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R82M53x.png" tvg-id="df4ab281ce9ac2ae42ba50619e873fd0" group-title="VTVCab" tvg-chno="73",ON VFamily
 http://192.167.2.20:9981/stream/channelid/28461791?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7QICK7.png" tvg-id="da536b5e1cf6b7b111958d87f2504874" group-title="VTVCab" tvg-chno="74",ON Vie Dramas (HD 8.5Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7QICK7.png" tvg-id="da536b5e1cf6b7b111958d87f2504874" group-title="VTVCab" tvg-chno="74",ON Vie Dramas
 http://192.167.2.20:9981/stream/channelid/1584092122?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7GSKm46.png" tvg-id="97839c6ac6ce8e1d1ce6bb6205b0f8d2" group-title="VTVCab" tvg-chno="75",ON Vie Giải Trí (HD 8Mbps)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GSKm46.png" tvg-id="97839c6ac6ce8e1d1ce6bb6205b0f8d2" group-title="VTVCab" tvg-chno="75",ON Vie Giải Trí
 http://192.167.2.20:9981/stream/channelid/1788642199?profile=pass
 
 #------------------------Quốc Tế------------------------#
