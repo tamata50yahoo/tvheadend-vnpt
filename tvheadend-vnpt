@@ -108,7 +108,7 @@ http://192.167.2.20:9981/stream/channelid/150005853?profile=pass
 http://192.167.2.20:9981/stream/channelid/1872273555?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/EFeyqYX.png" tvg-id="7bc13c2447e6d1affd41bed16e4d09f8" tvg-chno="269",K+ Sport 2 HD
 http://192.167.2.20:9981/stream/channelid/607961467?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/erWqYxh.png" tvg-id="072e2af72614774ccac7f01bd1c41fd6" tvg-chno="40",K+Kids HD
+#EXTINF:-1 logo="https://i.imgur.com/erWqYxh.png" tvg-id="072e2af72614774ccac7f01bd1c41fd6" tvg-chno="40",K+ Kids HD
 http://192.167.2.20:9981/stream/channelid/1999252999?profile=pass
 
 
