@@ -66,7 +66,7 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 http://192.167.2.20:9981/stream/channelid/599026741?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" tvg-id="ae3177172c513a30c21254ec76652d75" group-title="SCTV" tvg-chno="28",SCTV15
 http://192.167.2.20:9981/stream/channelid/393687470?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" channel-id="9bf5d677c830b45b75a481a42f2624af" group-title="SCTV" tvg-chno="29",SCTV16 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" tvg-id="9bf5d677c830b45b75a481a42f2624af" group-title="SCTV" tvg-chno="29",SCTV16 
 http://192.167.2.20:9981/stream/channelid/2010576283?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="2f65b542d3d50a1153fb9d6f79dac826" group-title="SCTV" tvg-chno="30",SCTV17
 http://192.167.2.20:9981/stream/channelid/1119184175?profile=pass
