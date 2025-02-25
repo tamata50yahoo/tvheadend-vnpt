@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://192.167.2.32:9981/xmltv/channels"
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="https://trada.info/epg.xml"
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="https://tinyurl.com/tvhxml1"
+
 
 
 #------------------------VTV------------------------#
