@@ -22,8 +22,7 @@ http://192.167.2.32:9981/stream/channelid/1935011703?profile=pass
 http://192.167.2.32:9981/stream/channelid/214064507?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="1c4188500c9616c253a73b884fb73301" group-title="VTV" tvg-chno="9",VTV8-HD
 http://192.167.2.32:9981/stream/channelid/1351106844?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="22f637584af22473d4d85472274d1c9c" group-title="VTV" tvg-chno="10",VTV8-HD
-http://192.167.2.32:9981/stream/channelid/1480062498?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="5ec1787e86100df5cdceba0ed8ae8f36" group-title="VTV" tvg-chno="11",VTV9-HD
 http://192.167.2.32:9981/stream/channelid/2121843038?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" tvg-id="2750518dede7a542cab0ef0fd759e345" group-title="VTV" tvg-chno="12",VTV5 Tây Nam Bộ HD
