@@ -59,7 +59,7 @@ http://192.167.2.32:9981/stream/channelid/2071181580?profile=pass
 http://192.167.2.32:9981/stream/channelid/1829302506?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i51qm8.png" tvg-id="sctv13hd" group-title="SCTV",SCTV13
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
+https://sctv.locket.website/sctvonline.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" tvg-id="356cb4a3502f01054c323e1cdd6aec8c" group-title="SCTV" tvg-chno="27",SCTV14
 http://192.167.2.32:9981/stream/channelid/599026741?profile=pass
