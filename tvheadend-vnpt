@@ -37,49 +37,49 @@ http://192.167.2.32:9981/stream/channelid/455605775?profile=pass
 
 #------------------------SCTV------------------------#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" tvg-id="aa0b6cfe5811e023baf2106892e383ee" group-title="SCTV" tvg-chno="16",SCTV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" tvg-id="aa0b6cfe5811e023baf2106892e383ee" group-title="SCTV" tvg-chno="16",SCTV1 HD
 http://192.167.2.32:9981/stream/channelid/2121010090?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" tvg-id="8162fb16226f1e9252bd98b0bbd2055a" group-title="SCTV" tvg-chno="17",SCTV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" tvg-id="8162fb16226f1e9252bd98b0bbd2055a" group-title="SCTV" tvg-chno="17",SCTV2 HD
 http://192.167.2.32:9981/stream/channelid/385573505?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" tvg-id="7cb9005adbbcf63ca87315484a0fa1cb" group-title="SCTV" tvg-chno="18",SCTV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" tvg-id="7cb9005adbbcf63ca87315484a0fa1cb" group-title="SCTV" tvg-chno="18",SCTV3 HD
 http://192.167.2.32:9981/stream/channelid/1509996924?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" tvg-id="350e2dcfe8190f9c35877246213124c7" group-title="SCTV" tvg-chno="19",SCTV4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" tvg-id="350e2dcfe8190f9c35877246213124c7" group-title="SCTV" tvg-chno="19",SCTV4 HD
 http://192.167.2.32:9981/stream/channelid/1328352821?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="3a98149ec1abe383f491ef043dd6174d" group-title="SCTV" tvg-chno="20",SCTV6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="3a98149ec1abe383f491ef043dd6174d" group-title="SCTV" tvg-chno="20",SCTV6 HD
 http://192.167.2.32:9981/stream/channelid/504666170?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" tvg-id="9d669cb1c77c0d604fd64b5f81a1d5b7" group-title="SCTV" tvg-chno="21",SCTV7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" tvg-id="9d669cb1c77c0d604fd64b5f81a1d5b7" group-title="SCTV" tvg-chno="21",SCTV7 HD
 http://192.167.2.32:9981/stream/channelid/832333469?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" tvg-id="075211ecc9ef52352cf606e6d5255ff5" group-title="SCTV" tvg-chno="22",SCTV8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" tvg-id="075211ecc9ef52352cf606e6d5255ff5" group-title="SCTV" tvg-chno="22",SCTV8 HD
 http://192.167.2.32:9981/stream/channelid/1813074439?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" tvg-id="836e8f95c4624dbd098a1646073f8301" group-title="SCTV" tvg-chno="23",SCTV9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" tvg-id="836e8f95c4624dbd098a1646073f8301" group-title="SCTV" tvg-chno="23",SCTV9 HD
 http://192.167.2.32:9981/stream/channelid/361721475?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" tvg-id="0cb973fb229a136b42480dd54aaa2e4f" group-title="SCTV" tvg-chno="24",SCTV11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" tvg-id="0cb973fb229a136b42480dd54aaa2e4f" group-title="SCTV" tvg-chno="24",SCTV11 HD
 http://192.167.2.32:9981/stream/channelid/2071181580?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" tvg-id="eaf0086d9037e3c9cf96548ab8760a33" group-title="SCTV" tvg-chno="25",SCTV12 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" tvg-id="eaf0086d9037e3c9cf96548ab8760a33" group-title="SCTV" tvg-chno="25",SCTV12 HD
 http://192.167.2.32:9981/stream/channelid/1829302506?profile=pass
 
 #EXTINF:-1 tvg-id="SCTV13" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",SCTV13
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" tvg-id="356cb4a3502f01054c323e1cdd6aec8c" group-title="SCTV" tvg-chno="27",SCTV14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yNMyEh.png" tvg-id="356cb4a3502f01054c323e1cdd6aec8c" group-title="SCTV" tvg-chno="27",SCTV14 HD
 http://192.167.2.32:9981/stream/channelid/599026741?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" tvg-id="ae3177172c513a30c21254ec76652d75" group-title="SCTV" tvg-chno="28",SCTV15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" tvg-id="ae3177172c513a30c21254ec76652d75" group-title="SCTV" tvg-chno="28",SCTV15 HD
 http://192.167.2.32:9981/stream/channelid/393687470?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" tvg-id="9bf5d677c830b45b75a481a42f2624af" group-title="SCTV" tvg-chno="29",SCTV16 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" tvg-id="9bf5d677c830b45b75a481a42f2624af" group-title="SCTV" tvg-chno="29",SCTV16 HD
 http://192.167.2.32:9981/stream/channelid/2010576283?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="2f65b542d3d50a1153fb9d6f79dac826" group-title="SCTV" tvg-chno="30",SCTV17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="2f65b542d3d50a1153fb9d6f79dac826" group-title="SCTV" tvg-chno="30",SCTV17 HD
 http://192.167.2.32:9981/stream/channelid/1119184175?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="4f2c6b8c62315401b7af8cc47e2a22d8" group-title="SCTV" tvg-chno="31",SCTV18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" tvg-id="4f2c6b8c62315401b7af8cc47e2a22d8" group-title="SCTV" tvg-chno="31",SCTV18 HD
 http://192.167.2.32:9981/stream/channelid/208350287?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" tvg-id="7bdb3bfab6befbf82d28e8f1f2082bd1" group-title="SCTV" tvg-chno="32",SCTV19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" tvg-id="7bdb3bfab6befbf82d28e8f1f2082bd1" group-title="SCTV" tvg-chno="32",SCTV19 HD
 http://192.167.2.32:9981/stream/channelid/2050743163?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" tvg-id="21c0ca0316378810eef68338876a35a8" group-title="SCTV" tvg-chno="33",SCTV20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" tvg-id="21c0ca0316378810eef68338876a35a8" group-title="SCTV" tvg-chno="33",SCTV20 HD
 http://192.167.2.32:9981/stream/channelid/63619105?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" tvg-id="2fdc9c88d36525b915aeeb7f4ca924e0" group-title="SCTV" tvg-chno="34",SCTV21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" tvg-id="2fdc9c88d36525b915aeeb7f4ca924e0" group-title="SCTV" tvg-chno="34",SCTV21 HD
 http://192.167.2.32:9981/stream/channelid/144497711?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" tvg-id="69492c420778c93cc710fafc159ee5ab" group-title="SCTV" tvg-chno="35",SCTV22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" tvg-id="69492c420778c93cc710fafc159ee5ab" group-title="SCTV" tvg-chno="35",SCTV22 HD
 http://192.167.2.32:9981/stream/channelid/1110198633?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="b16eabe0bd3fe0875a54f9162bc44e57" group-title="SCTV" tvg-chno="36",SCTV Phim Tổng Hợp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" tvg-id="b16eabe0bd3fe0875a54f9162bc44e57" group-title="SCTV" tvg-chno="36",SCTV HD Phim Tổng Hợp
 http://192.167.2.32:9981/stream/channelid/1621847729?profile=pass
 
 #EXTINF:-1  group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png", Fight Network
@@ -215,7 +215,7 @@ http://192.167.2.32:9981/stream/channelid/182269156?profile=pass
 http://192.167.2.32:9981/stream/channelid/1650185611?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="d5e4f932578cf298b85d831a2f0ae88f" group-title="Quoc te" tvg-chno="80",AXN
 http://192.167.2.32:9981/stream/channelid/855237845?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="ee56eccf44e9d0965fcf4aeed9dea34a" group-title="Quoc te" tvg-chno="81",BBC CBeeBies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="ee56eccf44e9d0965fcf4aeed9dea34a" group-title="Quoc te" tvg-chno="81",CBeeBies
 http://192.167.2.32:9981/stream/channelid/1340888814?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="86c6eeeb0eb3b4ada4f1cfa1779ba774" group-title="Quoc te" tvg-chno="82",BBC Earth
 http://192.167.2.32:9981/stream/channelid/1810810502?profile=pass
