@@ -202,9 +202,9 @@ http://192.167.2.32:9981/stream/channelid/1692107181?profile=pass
 http://192.167.2.32:9981/stream/channelid/1376942978?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="14088ed3da23f85c767aa91d5962c582" group-title="Quoc te" tvg-chno="81",HBO
 http://192.167.2.32:9981/stream/channelid/1401817108?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NzROY7r.png" tvg-id="c866e2f80530d15291e58634646e0b44" group-title="Quoc te" tvg-chno="82",Cinemax SD
+#EXTINF:-1 logo="https://i.imgur.com/NzROY7r.png" tvg-id="c866e2f80530d15291e58634646e0b44" group-title="Quoc te" tvg-chno="82",Cinemax HD
 http://192.167.2.32:9981/stream/channelid/2028103368?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="a5a0c3555d92a1c07a42a763555f072f" group-title="Quoc te" tvg-chno="83",HBO SD
+#EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="a5a0c3555d92a1c07a42a763555f072f" group-title="Quoc te" tvg-chno="83",HBO HD
 http://192.167.2.32:9981/stream/channelid/1438884005?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/hXYkO7B.png" tvg-id="816040382d4a6fa4495fede172eb7f71" group-title="Quoc te" tvg-chno="84",SPOTV
 http://192.167.2.32:9981/stream/channelid/943743105?profile=pass
