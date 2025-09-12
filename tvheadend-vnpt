@@ -64,7 +64,7 @@ http://192.167.2.32:9981/stream/channelid/374688608?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/1yNMyEh.png" tvg-id="573c4932a7f05088748c163b17fba158" group-title="SCTV" tvg-chno="26",SCTV14 HD
 #http://192.167.2.32:9981/stream/channelid/843660375?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/EPwjrlB.png" tvg-id="bf75f634b8e6b55243f0d2df2cdcf6bb" group-title="SCTV" tvg-chno="27",SCTV15 HD
-http://192.167.2.32:9981/stream/channelid/888567231?profile=pass
+#http://192.167.2.32:9981/stream/channelid/888567231?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/b4ZROQG.png" tvg-id="596e9416468555f1bb584d88cb4f23e4" group-title="SCTV" tvg-chno="28",SCTV16 HD
 #http://192.167.2.32:9981/stream/channelid/378826329?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/Ghjy4HY.png" tvg-id="fd02379c81d5e14426b6fbe5e8290852" group-title="SCTV" tvg-chno="29",SCTV17 HD
