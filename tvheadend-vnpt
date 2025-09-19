@@ -106,507 +106,514 @@ http://192.167.2.32:9981/stream/channelid/1416974235?profile=pass
 
 #---HTV---#
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv1.png" tvg-id="ba4bad62db53aa04f1ebdc2abfac051d" group-title="HTV/HTVC" tvg-chno="69",HTV1 (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv1.png" tvg-id="ba4bad62db53aa04f1ebdc2abfac051d" group-title="HTV/HTVC" tvg-chno="48",HTV1 (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1655524282?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="39389d5f1e866000347a444d341c60a2" group-title="HTV/HTVC" tvg-chno="70",HTV2 Vie Channel (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="39389d5f1e866000347a444d341c60a2" group-title="HTV/HTVC" tvg-chno="49",HTV2 Vie Channel (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1604139065?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv3.png" tvg-id="dbcbe2885b0f5e45fc56cd688e5367c6" group-title="HTV/HTVC" tvg-chno="71",HTV3 (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv3.png" tvg-id="dbcbe2885b0f5e45fc56cd688e5367c6" group-title="HTV/HTVC" tvg-chno="50",HTV3 (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/149081051?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvkey.png" tvg-id="e307581673f7c57cc69e2a6aff1c3e23" group-title="HTV/HTVC" tvg-chno="72",HTV Keys (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvkey.png" tvg-id="e307581673f7c57cc69e2a6aff1c3e23" group-title="HTV/HTVC" tvg-chno="51",HTV Keys (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/374867939?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv7hd.png" tvg-id="9694825c13c2430821537f027b7eb1d6" group-title="HTV/HTVC" tvg-chno="73",HTV7 (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv7hd.png" tvg-id="9694825c13c2430821537f027b7eb1d6" group-title="HTV/HTVC" tvg-chno="52",HTV7 (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1552061590?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv9hd.png" tvg-id="af16decacf25f7c6f3bf7652472bec9c" group-title="HTV/HTVC" tvg-chno="74",HTV9 (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv9hd.png" tvg-id="af16decacf25f7c6f3bf7652472bec9c" group-title="HTV/HTVC" tvg-chno="53",HTV9 (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1256068783?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvthethaohd.png" tvg-id="a067a1895409355fbf5847e8e8119699" group-title="HTV/HTVC" tvg-chno="75",HTV Thể Thao (HD 9.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvthethaohd.png" tvg-id="a067a1895409355fbf5847e8e8119699" group-title="HTV/HTVC" tvg-chno="54",HTV Thể Thao (HD 9.5Mbps)
 http://192.167.2.32:9981/stream/channelid/161572768?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvccanhachd.png" tvg-id="7ee024b362dc663e494fb5ae29ed48d2" group-title="HTV/HTVC" tvg-chno="76",HTVC Ca Nhạc (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvccanhachd.png" tvg-id="7ee024b362dc663e494fb5ae29ed48d2" group-title="HTV/HTVC" tvg-chno="55",HTVC Ca Nhạc (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/858054782?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcdulichhd.png" tvg-id="959c4e57f673a54ba23e79a5c24f7090" group-title="HTV/HTVC" tvg-chno="77",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcdulichhd.png" tvg-id="959c4e57f673a54ba23e79a5c24f7090" group-title="HTV/HTVC" tvg-chno="56",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1464769685?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcgiadinhhd.png" tvg-id="d435299bf130c170b67ed6afbe1c4cdb" group-title="HTV/HTVC" tvg-chno="78",HTVC Gia Đình (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcgiadinhhd.png" tvg-id="d435299bf130c170b67ed6afbe1c4cdb" group-title="HTV/HTVC" tvg-chno="57",HTVC Gia Đình (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/455685588?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" tvg-id="2a41a8d402e1de6c1de20072a699c019" group-title="HTV/HTVC" tvg-chno="79",HTVC Phim (HD 4.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" tvg-id="2a41a8d402e1de6c1de20072a699c019" group-title="HTV/HTVC" tvg-chno="58",HTVC Phim (HD 4.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1420312874?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphunuhd.png" tvg-id="a043e14e17659467fd8f6facc9e5c27c" group-title="HTV/HTVC" tvg-chno="80",HTVC Phụ Nữ (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphunuhd.png" tvg-id="a043e14e17659467fd8f6facc9e5c27c" group-title="HTV/HTVC" tvg-chno="59",HTVC Phụ Nữ (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1323385760?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviet.png" tvg-id="ef3725007677da3b1f4d9c21c2189945" group-title="HTV/HTVC" tvg-chno="81",HTVC Thuần Việt (HD 4Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviet.png" tvg-id="ef3725007677da3b1f4d9c21c2189945" group-title="HTV/HTVC" tvg-chno="60",HTVC Thuần Việt (HD 4Mbps)
 http://192.167.2.32:9981/stream/channelid/2439151?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="4147a299dd0d266555fafba4df9a339d" group-title="HTV/HTVC" tvg-chno="82",HTVC+ (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="4147a299dd0d266555fafba4df9a339d" group-title="HTV/HTVC" tvg-chno="61",HTVC+ (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/430065473?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="e49c15dd9c9c3694a705c312fbba4fb4" group-title="HTV/HTVC" tvg-chno="84",HTV2 Vie Channel
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="e49c15dd9c9c3694a705c312fbba4fb4" group-title="HTV/HTVC" tvg-chno="62",HTV2 Vie Channel
 http://192.167.2.32:9981/stream/channelid/1561697508?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="f11beef8c26dcc505eeff1c8566dae91" group-title="HTV/HTVC" tvg-chno="96",HTVC+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="f11beef8c26dcc505eeff1c8566dae91" group-title="HTV/HTVC" tvg-chno="63",HTVC+
 http://192.167.2.32:9981/stream/channelid/2028870641?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" tvg-id="cc54d2390e5cfbaad4fcbebd7e63e156" group-title="HTV/HTVC" tvg-chno="97",HTVC Phim (HD 4.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" tvg-id="cc54d2390e5cfbaad4fcbebd7e63e156" group-title="HTV/HTVC" tvg-chno="64",HTVC Phim (HD 4.5Mbps)
 http://192.167.2.32:9981/stream/channelid/970085580?profile=pass
 
 #---VTVCab---#
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsports.png" tvg-id="7407fa4acaf512925d57c2a8b9ccfebe" group-title="VTVCab" tvg-chno="98",ON Sports HD (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsports.png" tvg-id="7407fa4acaf512925d57c2a8b9ccfebe" group-title="VTVCab" tvg-chno="65",ON Sports HD (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1257899892?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsportsplus.png" tvg-id="02f6d545d4615ffa9c271aebcb48374e" group-title="VTVCab" tvg-chno="99",ON Sports+ (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsportsplus.png" tvg-id="02f6d545d4615ffa9c271aebcb48374e" group-title="VTVCab" tvg-chno="66",ON Sports+ (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1171650050?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onfootball.png" tvg-id="86a49527c1a0211afdf41fd1e1354f70" group-title="VTVCab" tvg-chno="100",ON Football HD (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onfootball.png" tvg-id="86a49527c1a0211afdf41fd1e1354f70" group-title="VTVCab" tvg-chno="67",ON Football HD (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/664118406?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsportsnews.png" tvg-id="cf591cf7c91c80fabd8f0654d2b28408" group-title="VTVCab" tvg-chno="101",ON Sports News (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsportsnews.png" tvg-id="cf591cf7c91c80fabd8f0654d2b28408" group-title="VTVCab" tvg-chno="68",ON Sports News (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1998346703?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ongolf.png" tvg-id="626688877392b12f15ad464611a8980c" group-title="VTVCab" tvg-chno="102",ON Golf (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ongolf.png" tvg-id="626688877392b12f15ad464611a8980c" group-title="VTVCab" tvg-chno="69",ON Golf (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/126379618?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onbibi.png" tvg-id="b3cfe46091dd8be710cf1593e41eff91" group-title="VTVCab" tvg-chno="103",ON BiBi (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onbibi.png" tvg-id="b3cfe46091dd8be710cf1593e41eff91" group-title="VTVCab" tvg-chno="70",ON BiBi (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1625608115?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/oncine.png" tvg-id="13b00f4cfd8236d2504165ddc95846d2" group-title="VTVCab" tvg-chno="104",ON Cine (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/oncine.png" tvg-id="13b00f4cfd8236d2504165ddc95846d2" group-title="VTVCab" tvg-chno="71",ON Cine (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1276096531?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onechannel.png" tvg-id="1f4894d77304bfb3123054b6c385a917" group-title="VTVCab" tvg-chno="105",ON EChannel (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onechannel.png" tvg-id="1f4894d77304bfb3123054b6c385a917" group-title="VTVCab" tvg-chno="72",ON EChannel (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1469335583?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onkids.png" tvg-id="841197d70c17c7ea31d4060e7a9b7b3e" group-title="VTVCab" tvg-chno="107",ON Kids (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onkids.png" tvg-id="841197d70c17c7ea31d4060e7a9b7b3e" group-title="VTVCab" tvg-chno="73",ON Kids (HD 7Mbps)
 http://192.167.2.32:9981/stream/channelid/1469518212?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onlife.png" tvg-id="8219fbb0f212ac53b6fb7be051c63866" group-title="VTVCab" tvg-chno="108",ON Life (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onlife.png" tvg-id="8219fbb0f212ac53b6fb7be051c63866" group-title="VTVCab" tvg-chno="74",ON Life (HD 7Mbps)
 http://192.167.2.32:9981/stream/channelid/821762434?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onmovies.png" tvg-id="baa64fe8a6635ff883bc3eb9d5be7b21" group-title="VTVCab" tvg-chno="109",ON Movies (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onmovies.png" tvg-id="baa64fe8a6635ff883bc3eb9d5be7b21" group-title="VTVCab" tvg-chno="75",ON Movies (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1750050490?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onmusic.png" tvg-id="f7f013771ed2da2fc57f7b66e078bf69" group-title="VTVCab" tvg-chno="110",ON Music (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onmusic.png" tvg-id="f7f013771ed2da2fc57f7b66e078bf69" group-title="VTVCab" tvg-chno="76",ON Music (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1997795575?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ono2tv.png" tvg-id="9d972272e6faaa8b83431faaa4826656" group-title="VTVCab" tvg-chno="111",ON O2TV (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ono2tv.png" tvg-id="9d972272e6faaa8b83431faaa4826656" group-title="VTVCab" tvg-chno="77",ON O2TV (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1914869661?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onphimviet.png" tvg-id="647c020b9aac36da4e4b493d40d7bba4" group-title="VTVCab" tvg-chno="112",ON Phim Việt (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onphimviet.png" tvg-id="647c020b9aac36da4e4b493d40d7bba4" group-title="VTVCab" tvg-chno="78",ON Phim Việt (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/184712292?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onstyle.png" tvg-id="59dd9e69ada4a1ee42f6e609c2f22b86" group-title="VTVCab" tvg-chno="113",ON Style TV (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onstyle.png" tvg-id="59dd9e69ada4a1ee42f6e609c2f22b86" group-title="VTVCab" tvg-chno="79",ON Style TV (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1772019033?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ontrending.png" tvg-id="7fa3bb9237c9b9b57d1c5d097bbfbba6" group-title="VTVCab" tvg-chno="114",ON Trending TV (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ontrending.png" tvg-id="7fa3bb9237c9b9b57d1c5d097bbfbba6" group-title="VTVCab" tvg-chno="80",ON Trending TV (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/314286975?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onvfamily.png" tvg-id="c014b3bd867cccfc44c3dd91409348a2" group-title="VTVCab" tvg-chno="115",ON VFamily (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onvfamily.png" tvg-id="c014b3bd867cccfc44c3dd91409348a2" group-title="VTVCab" tvg-chno="81",ON VFamily (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1035146432?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onviedramas.png" tvg-id="d5ecca15d4495277e35b859edc24cfb4" group-title="VTVCab" tvg-chno="116",ON Vie Dramas (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onviedramas.png" tvg-id="d5ecca15d4495277e35b859edc24cfb4" group-title="VTVCab" tvg-chno="82",ON Vie Dramas (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/365620437?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onviegiaitri.png" tvg-id="707d5790a1541fc417f75bc0d0968810" group-title="VTVCab" tvg-chno="117",ON Vie Giải Trí (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onviegiaitri.png" tvg-id="707d5790a1541fc417f75bc0d0968810" group-title="VTVCab" tvg-chno="83",ON Vie Giải Trí (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/274169200?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsports.png" tvg-id="d3ab6eb1aa4e9be300de2d305325f8dc" group-title="VTVCab" tvg-chno="118",ON Sports
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsports.png" tvg-id="d3ab6eb1aa4e9be300de2d305325f8dc" group-title="VTVCab" tvg-chno="84",ON Sports
 http://192.167.2.32:9981/stream/channelid/829336531?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsportsplus.png" tvg-id="499e7549a5af983f8d144cfd1fd0e7c9" group-title="VTVCab" tvg-chno="119",ON Sports+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsportsplus.png" tvg-id="499e7549a5af983f8d144cfd1fd0e7c9" group-title="VTVCab" tvg-chno="85",ON Sports+
 http://192.167.2.32:9981/stream/channelid/1232445001?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onfootball.png" tvg-id="9af54591503cdcf3ec8741b6d5f00adf" group-title="VTVCab" tvg-chno="120",ON Football
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onfootball.png" tvg-id="9af54591503cdcf3ec8741b6d5f00adf" group-title="VTVCab" tvg-chno="86",ON Football
 http://192.167.2.32:9981/stream/channelid/289797530?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/oncine.png" tvg-id="7f40c75669cc9510129351642a541af2" group-title="VTVCab" tvg-chno="122",ON Cine
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/oncine.png" tvg-id="7f40c75669cc9510129351642a541af2" group-title="VTVCab" tvg-chno="87",ON Cine
 http://192.167.2.32:9981/stream/channelid/1455898751?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onechannel.png" tvg-id="e4d8fcb8fe894f76bc74913827c3333d" group-title="VTVCab" tvg-chno="123",ON EChannel
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onechannel.png" tvg-id="e4d8fcb8fe894f76bc74913827c3333d" group-title="VTVCab" tvg-chno="88",ON EChannel
 http://192.167.2.32:9981/stream/channelid/956094692?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onmusic.png" tvg-id="4782bf95dbfc297f6e2a0a07bc9266ab" group-title="VTVCab" tvg-chno="125",ON Music
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onmusic.png" tvg-id="4782bf95dbfc297f6e2a0a07bc9266ab" group-title="VTVCab" tvg-chno="89",ON Music
 http://192.167.2.32:9981/stream/channelid/364872263?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ontrending.png" tvg-id="642c712f15d76681516748fea67e55f9" group-title="VTVCab" tvg-chno="129",ON Trending TV
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ontrending.png" tvg-id="642c712f15d76681516748fea67e55f9" group-title="VTVCab" tvg-chno="90",ON Trending TV
 http://192.167.2.32:9981/stream/channelid/795946084?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onvfamily.png" tvg-id="0a6944f1fe3eae6560caf85682ce4cc4" group-title="VTVCab" tvg-chno="130",ON VFamily
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onvfamily.png" tvg-id="0a6944f1fe3eae6560caf85682ce4cc4" group-title="VTVCab" tvg-chno="91",ON VFamily
 http://192.167.2.32:9981/stream/channelid/1900308746?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsports.png" tvg-id="0bf6e0f6cd03b9d2ed7d7404d3d55144" group-title="VTVCab" tvg-chno="133",ON Sports HD (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onsports.png" tvg-id="0bf6e0f6cd03b9d2ed7d7404d3d55144" group-title="VTVCab" tvg-chno="92",ON Sports HD (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1994454539?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/onfootball.png" tvg-id="75566d1fce763746a761756fddb8252a" group-title="VTVCab" tvg-chno="134",ON Football HD (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/onfootball.png" tvg-id="75566d1fce763746a761756fddb8252a" group-title="VTVCab" tvg-chno="93",ON Football HD (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/527259253?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ongolf.png" tvg-id="708e0d3d58f0d604ca64ce0a1165fd9c" group-title="VTVCab" tvg-chno="135",ON Golf (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ongolf.png" tvg-id="708e0d3d58f0d604ca64ce0a1165fd9c" group-title="VTVCab" tvg-chno="94",ON Golf (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1024298608?profile=pass
 
-#--Quốc tế---#
+#---Quốc tế---#
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaxhd.png" tvg-id="581297cc93f0a1b1b9b0f2e882ea8e7e" group-title="Quốc tế" tvg-chno="153",Cinemax (HD 8.5Mbps)
-http://192.167.2.32:9981/stream/channelid/1284969048?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="1f90c04a46f53126c7fbccaeda85e110" group-title="Quốc tế" tvg-chno="168",HBO (HD 8.5Mbps)
-http://192.167.2.32:9981/stream/channelid/1254133791?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="82688daed17fd75d1109882e43b481d4" group-title="Quốc tế" tvg-chno="169",HBO (HD 8.5Mbps)
-http://192.167.2.32:9981/stream/channelid/781019266?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="95aa996d2e4e91b8a553bb4817f413c6" group-title="Quốc tế" tvg-chno="222",HBO
-http://192.167.2.32:9981/stream/channelid/1838787221?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/boxhits.png" tvg-id="79feeef1fed9c5f0eea5f71839ac4cc8" group-title="Quốc tế" tvg-chno="147",Box Hits (HD 5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/134.png" tvg-id="79feeef1fed9c5f0eea5f71839ac4cc8" group-title="Quốc tế" tvg-chno="95",Box Hits HD
 http://192.167.2.32:9981/stream/channelid/1911488121?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/boxhits.png" tvg-id="ad69757fe104439083905d57717e0126" group-title="Quốc tế" tvg-chno="196",Box Hits
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/boxhits.png" tvg-id="ad69757fe104439083905d57717e0126" group-title="Quốc tế" tvg-chno="96",Box Hits
 http://192.167.2.32:9981/stream/channelid/2138401197?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="2c8799f1b5963ce9a7b405bbd1a964b6" group-title="Quốc tế" tvg-chno="173",SPOTV (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cartoonhd.png" tvg-id="18d37157456c79d54465176398a07ab1" group-title="Quốc tế" tvg-chno="97",Cartoon Network (HD 8.5Mbps)
+http://192.167.2.32:9981/stream/channelid/1467077400?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cartoonhd.png" tvg-id="04f812bbeff9301694cd53f6cc7972a1" group-title="Quốc tế" tvg-chno="98",Cartoon Network (HD 10Mbps)
+http://192.167.2.32:9981/stream/channelid/991098884?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cartoonhd.png" tvg-id="1d883d6d2ea1c0473085f77859de8b38" group-title="Quốc tế" tvg-chno="99",Cartoon Network
+http://192.167.2.32:9981/stream/channelid/1832749085?profile=pass
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaxhd.png" tvg-id="581297cc93f0a1b1b9b0f2e882ea8e7e" group-title="Quốc tế" tvg-chno="100",Cinemax (HD 8.5Mbps)
+http://192.167.2.32:9981/stream/channelid/1284969048?profile=pass
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="1f90c04a46f53126c7fbccaeda85e110" group-title="Quốc tế" tvg-chno="101",HBO (HD 8.5Mbps)
+http://192.167.2.32:9981/stream/channelid/1254133791?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="82688daed17fd75d1109882e43b481d4" group-title="Quốc tế" tvg-chno="102",HBO (HD 8.5Mbps)
+http://192.167.2.32:9981/stream/channelid/781019266?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="95aa996d2e4e91b8a553bb4817f413c6" group-title="Quốc tế" tvg-chno="103",HBO
+http://192.167.2.32:9981/stream/channelid/1838787221?profile=pass
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="2c8799f1b5963ce9a7b405bbd1a964b6" group-title="Quốc tế" tvg-chno="104",SPOTV (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1905887020?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="36a1858cf15160c7c6fac820942240a6" group-title="Quốc tế" tvg-chno="174",SPOTV (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="36a1858cf15160c7c6fac820942240a6" group-title="Quốc tế" tvg-chno="105",SPOTV (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/210084150?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="326e27c94c15076908916535cdbb3801" group-title="Quốc tế" tvg-chno="175",SPOTV (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="326e27c94c15076908916535cdbb3801" group-title="Quốc tế" tvg-chno="106",SPOTV (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1227320882?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="d6a0c5714f08095d37674f2098206610" group-title="Quốc tế" tvg-chno="176",SPOTV2 (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="d6a0c5714f08095d37674f2098206610" group-title="Quốc tế" tvg-chno="107",SPOTV2 (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1908777174?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="3bd3cfc58ebc7524e6e2dcce7b2701a4" group-title="Quốc tế" tvg-chno="177",SPOTV2 (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="3bd3cfc58ebc7524e6e2dcce7b2701a4" group-title="Quốc tế" tvg-chno="108",SPOTV2 (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1171247931?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="e733af91cf257c4f4dfaaafe9450b35a" group-title="Quốc tế" tvg-chno="178",SPOTV2 (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="e733af91cf257c4f4dfaaafe9450b35a" group-title="Quốc tế" tvg-chno="109",SPOTV2 (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/296694759?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="96b457570cae3bad2bc51e5facb90e40" group-title="Quốc tế" tvg-chno="240",SPOTV
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv1.png" tvg-id="96b457570cae3bad2bc51e5facb90e40" group-title="Quốc tế" tvg-chno="110",SPOTV
 http://192.167.2.32:9981/stream/channelid/1465365654?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="974ac4eec9f619ee5313b84849b8436d" group-title="Quốc tế" tvg-chno="241",SPOTV2
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/spotv2.png" tvg-id="974ac4eec9f619ee5313b84849b8436d" group-title="Quốc tế" tvg-chno="111",SPOTV2
 http://192.167.2.32:9981/stream/channelid/1858357911?profile=pass
 
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="aabc620d34904fd1c1bc5b360d4f2bb5" group-title="Quốc tế" tvg-chno="136",Animal Planet (HD 8.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/143.png" tvg-id="aabc620d34904fd1c1bc5b360d4f2bb5" group-title="Quốc tế" tvg-chno="112",Animal Planet
 http://192.167.2.32:9981/stream/channelid/224574634?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="404e40d2b271b4844b333f5424560526" group-title="Quốc tế" tvg-chno="137",Animal Planet (HD 10Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="404e40d2b271b4844b333f5424560526" group-title="Quốc tế" tvg-chno="113",Animal Planet (HD 10Mbps)
 http://192.167.2.32:9981/stream/channelid/1379946048?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/afnhd.png" tvg-id="edcd98aa1c60562d43955446ebb5fc48" group-title="Quốc tế" tvg-chno="138",Asian Food Network (HD 6.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/172.png" tvg-id="edcd98aa1c60562d43955446ebb5fc48" group-title="Quốc tế" tvg-chno="114",Asian Food Network
 http://192.167.2.32:9981/stream/channelid/714657261?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/axnhd.png" tvg-id="4b93ced9ca79e2ec0cc9a39e89cbb87d" group-title="Quốc tế" tvg-chno="139",AXN (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/axnhd.png" tvg-id="4b93ced9ca79e2ec0cc9a39e89cbb87d" group-title="Quốc tế" tvg-chno="115",AXN (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1506710347?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/axnhd.png" tvg-id="3a14dfc15d2ae2d041f073ec066d177c" group-title="Quốc tế" tvg-chno="140",AXN (HD 8.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/163.png" tvg-id="3a14dfc15d2ae2d041f073ec066d177c" group-title="Quốc tế" tvg-chno="116",AXN
 http://192.167.2.32:9981/stream/channelid/1105138746?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="2320885ff947c5234f2ec1f3050adc6c" group-title="Quốc tế" tvg-chno="141",BBC CBeeBies (HD 9Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="2320885ff947c5234f2ec1f3050adc6c" group-title="Quốc tế" tvg-chno="117",BBC CBeeBies (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1602756643?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="a40e763e27489f716ffef109cb19af42" group-title="Quốc tế" tvg-chno="142",BBC CBeeBies (HD 9Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="a40e763e27489f716ffef109cb19af42" group-title="Quốc tế" tvg-chno="118",BBC CBeeBies (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/1047924388?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcearth.png" tvg-id="9e2bcd331715a078db4e8e6faf26d0c1" group-title="Quốc tế" tvg-chno="143",BBC Earth (HD 10Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/148.png" tvg-id="9e2bcd331715a078db4e8e6faf26d0c1" group-title="Quốc tế" tvg-chno="119",BBC Earth (HD 10Mbps)
 http://192.167.2.32:9981/stream/channelid/869084062?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbclifestyle.png" tvg-id="a2caebca601be80a942384ce6f19e9c0" group-title="Quốc tế" tvg-chno="144",BBC Lifestyle (HD 9Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/149.png" tvg-id="a2caebca601be80a942384ce6f19e9c0" group-title="Quốc tế" tvg-chno="120",BBC Lifestyle
 http://192.167.2.32:9981/stream/channelid/1256966818?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcworldnews.png" tvg-id="77ca177d2cb8cc94223bc2f03bc13582" group-title="Quốc tế" tvg-chno="145",BBC News (HD 9Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcworldnews.png" tvg-id="77ca177d2cb8cc94223bc2f03bc13582" group-title="Quốc tế" tvg-chno="121",BBC News (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/2098711159?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bloomberg.png" tvg-id="501f91a371905302986958f1baa76679" group-title="Quốc tế" tvg-chno="146",Bloomberg (HD 9Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/154.png" tvg-id="501f91a371905302986958f1baa76679" group-title="Quốc tế" tvg-chno="122",Bloomberg (HD 9Mbps)
 http://192.167.2.32:9981/stream/channelid/596713296?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cartoonhd.png" tvg-id="18d37157456c79d54465176398a07ab1" group-title="Quốc tế" tvg-chno="148",Cartoon Network (HD 8.5Mbps)
-http://192.167.2.32:9981/stream/channelid/1467077400?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cartoonhd.png" tvg-id="04f812bbeff9301694cd53f6cc7972a1" group-title="Quốc tế" tvg-chno="149",Cartoon Network (HD 10Mbps)
-http://192.167.2.32:9981/stream/channelid/991098884?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="2d0c4faa2eab7ba6f2ab933c2cc4d65d" group-title="Quốc tế" tvg-chno="150",Cinema World (HD 8.5Mbps)
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="2d0c4faa2eab7ba6f2ab933c2cc4d65d" group-title="Quốc tế" tvg-chno="123",Cinema World (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/709823533?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="e3897eb9468eab5ec5d9f1ee824028ba" group-title="Quốc tế" tvg-chno="151",Cinema World (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="e3897eb9468eab5ec5d9f1ee824028ba" group-title="Quốc tế" tvg-chno="124",Cinema World (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/964594147?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cinemaworldhd.png" tvg-id="f6b4c116ce68ddf8c2db8e75e70efbe2" group-title="Quốc tế" tvg-chno="152",Cinema World (HD 9Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/164.png" tvg-id="f6b4c116ce68ddf8c2db8e75e70efbe2" group-title="Quốc tế" tvg-chno="125",Cinema World
 http://192.167.2.32:9981/stream/channelid/381793526?profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="1cd7f08310789b8f641fc59f9ede6315" group-title="Quốc tế" tvg-chno="154",CNA (HD 6.5Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="1cd7f08310789b8f641fc59f9ede6315" group-title="Quốc tế" tvg-chno="126",CNA (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/66115356?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="58b558c75c965c132655923b1aecaffe" group-title="Quốc tế" tvg-chno="155",CNA (HD 6.5Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/RIQE8kA.png" tvg-id="58b558c75c965c132655923b1aecaffe" group-title="Quốc tế" tvg-chno="127",CNA (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1196995928?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cnn.png" tvg-id="3f24dcda46394f624ae4c0a1578b4ca8" group-title="Quốc tế" tvg-chno="156",CNN (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/cnn.png" tvg-id="3f24dcda46394f624ae4c0a1578b4ca8" group-title="Quốc tế" tvg-chno="128",CNN (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1524376639?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/davinci.png" tvg-id="b52965becd7a6df8b1ac87df44707efb" group-title="Quốc tế" tvg-chno="157",Da Vinci (HD 7.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/142.png" tvg-id="b52965becd7a6df8b1ac87df44707efb" group-title="Quốc tế" tvg-chno="129",DaVinci
 http://192.167.2.32:9981/stream/channelid/1046817205?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryasiahd.png" tvg-id="11e5b77f4db610f2a88ec9873744c666" group-title="Quốc tế" tvg-chno="158",Discovery Asia (HD 9.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/145.png" tvg-id="11e5b77f4db610f2a88ec9873744c666" group-title="Quốc tế" tvg-chno="130",Discovery Asia
 http://192.167.2.32:9981/stream/channelid/2142758161?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="c85d25038e0ab44908ccf36b72a9d2ae" group-title="Quốc tế" tvg-chno="159",Discovery Channel (HD 10Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/144.png" tvg-id="c85d25038e0ab44908ccf36b72a9d2ae" group-title="Quốc tế" tvg-chno="131",Discovery
 http://192.167.2.32:9981/stream/channelid/52780488?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="f2c261fb045031e347af58966252c993" group-title="Quốc tế" tvg-chno="160",Discovery Channel (HD 10Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="f2c261fb045031e347af58966252c993" group-title="Quốc tế" tvg-chno="132",Discovery Channel (HD 10Mbps)
 http://192.167.2.32:9981/stream/channelid/2070004466?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dmax.png" tvg-id="f369472c530ef5bd64127b0a2f4352bd" group-title="Quốc tế" tvg-chno="161",Dmax (HD 8.5Mbps)
+#EXTINF:-1 logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1200x1200x0/cmc_new/img.live_channel/0/0/0/0/271.jpg" tvg-id="f369472c530ef5bd64127b0a2f4352bd" group-title="Quốc tế" tvg-chno="133",DMAX
 http://192.167.2.32:9981/stream/channelid/742877683?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dreamworks.png" tvg-id="0c30edee069a90e1c62dccdfc6265207" group-title="Quốc tế" tvg-chno="162",Dreamworks (HD 10Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/141.png" tvg-id="0c30edee069a90e1c62dccdfc6265207" group-title="Quốc tế" tvg-chno="134",Dreamworks
 http://192.167.2.32:9981/stream/channelid/1861038092?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dreamworks.png" tvg-id="aa4969fcf81bec9f456f8df8c7ed322e" group-title="Quốc tế" tvg-chno="163",Dreamworks (HD 11Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dreamworks.png" tvg-id="aa4969fcf81bec9f456f8df8c7ed322e" group-title="Quốc tế" tvg-chno="135",Dreamworks (HD 11Mbps)
 http://192.167.2.32:9981/stream/channelid/2087274922?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="26479c0340b4462bb751045bd0198903" group-title="Quốc tế" tvg-chno="164",DW (HD 8.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/158.png" tvg-id="26479c0340b4462bb751045bd0198903" group-title="Quốc tế" tvg-chno="136",DW
 http://192.167.2.32:9981/stream/channelid/60573478?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="3a5f4773c47e9b3eaec07b53a234b9e2" group-title="Quốc tế" tvg-chno="165",DW (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="3a5f4773c47e9b3eaec07b53a234b9e2" group-title="Quốc tế" tvg-chno="137",DW (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1934057274?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="c1321392617b9dc1c6e3b4f7598dcdee" group-title="Quốc tế" tvg-chno="166",Fashion TV (HD 8.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/165.png" tvg-id="c1321392617b9dc1c6e3b4f7598dcdee" group-title="Quốc tế" tvg-chno="138",FashionTV
 http://192.167.2.32:9981/stream/channelid/303248065?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="dc716071d426821e216110e16f8d7dd6" group-title="Quốc tế" tvg-chno="167",Fashion TV (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="dc716071d426821e216110e16f8d7dd6" group-title="Quốc tế" tvg-chno="139",Fashion TV (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1902146012?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/nhkworld.png" tvg-id="75c73bc6cdfecc58cbb5623c1141fac2" group-title="Quốc tế" tvg-chno="171",NHK World Japan (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/nhkworld.png" tvg-id="75c73bc6cdfecc58cbb5623c1141fac2" group-title="Quốc tế" tvg-chno="140",NHK World Japan (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1178322805?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/outdoorhd.png" tvg-id="90227a8d6b985ba32117a2aa46e0b604" group-title="Quốc tế" tvg-chno="172",Outdoor (HD 7.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/146.png" tvg-id="90227a8d6b985ba32117a2aa46e0b604" group-title="Quốc tế" tvg-chno="141",Outdoor Channel
 http://192.167.2.32:9981/stream/channelid/226108048?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tlchd.png" tvg-id="606bcf86df1d7beb69ac04835e0030c1" group-title="Quốc tế" tvg-chno="179",TLC (HD 8.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/168.png" tvg-id="606bcf86df1d7beb69ac04835e0030c1" group-title="Quốc tế" tvg-chno="142",Travel Living
 http://192.167.2.32:9981/stream/channelid/114256736?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/YyYy7jy.png" tvg-id="4607ca33312c4ac50a1757d8fc333e38" group-title="Quốc tế" tvg-chno="180",TVE (HD 6.5Mbps)
+#EXTINF:-1 logo="https://i.imgur.com/YyYy7jy.png" tvg-id="4607ca33312c4ac50a1757d8fc333e38" group-title="Quốc tế" tvg-chno="143",TVE (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/868878150?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="27047b9cfffcda188cb023e51fa1f213" group-title="Quốc tế" tvg-chno="181",WBTV (HD 8.5Mbps)
+#EXTINF:-1 logo="https://vnepg.site/logos/169.png" tvg-id="27047b9cfffcda188cb023e51fa1f213" group-title="Quốc tế" tvg-chno="144",Warner TV
 http://192.167.2.32:9981/stream/channelid/477824039?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="aa61c531e02e2376945e4252c328d6cb" group-title="Quốc tế" tvg-chno="182",WBTV (HD 11Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="aa61c531e02e2376945e4252c328d6cb" group-title="Quốc tế" tvg-chno="145",WBTV (HD 11Mbps)
 http://192.167.2.32:9981/stream/channelid/835019178?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Nz525XH.png" tvg-id="b81477b197d1b74bc63e73d118999b13" group-title="Quốc tế" tvg-chno="183",123TV
+#EXTINF:-1 logo="https://i.imgur.com/Nz525XH.png" tvg-id="b81477b197d1b74bc63e73d118999b13" group-title="Quốc tế" tvg-chno="146",123TV
 http://192.167.2.32:9981/stream/channelid/829887672?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/abcaustralia.png" tvg-id="d81b1263a7d7c4cfa9f3d20ff19568cc" group-title="Quốc tế" tvg-chno="184",ABC Australia
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/abcaustralia.png" tvg-id="d81b1263a7d7c4cfa9f3d20ff19568cc" group-title="Quốc tế" tvg-chno="147",ABC Australia
 http://192.167.2.32:9981/stream/channelid/1662131160?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/abcaustralia.png" tvg-id="c2c6ec502279032470d8d6973d0ed8c6" group-title="Quốc tế" tvg-chno="185",ABC Australia
+#EXTINF:-1 logo="https://vnepg.site/logos/153.png" tvg-id="c2c6ec502279032470d8d6973d0ed8c6" group-title="Quốc tế" tvg-chno="148",ABC Australia
 http://192.167.2.32:9981/stream/channelid/1357694658?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/py4oLTl.png" tvg-id="726a5b5acccc9e6f23e7aa3aa0c44d2a" group-title="Quốc tế" tvg-chno="186",Al Jazeera
+#EXTINF:-1 logo="https://i.imgur.com/py4oLTl.png" tvg-id="726a5b5acccc9e6f23e7aa3aa0c44d2a" group-title="Quốc tế" tvg-chno="149",Al Jazeera
 http://192.167.2.32:9981/stream/channelid/1515940466?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="fe07ccbc2265f85dfe264842b8780130" group-title="Quốc tế" tvg-chno="187",Animal Planet
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/animalhd.png" tvg-id="fe07ccbc2265f85dfe264842b8780130" group-title="Quốc tế" tvg-chno="150",Animal Planet
 http://192.167.2.32:9981/stream/channelid/1020004350?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/arirang.png" tvg-id="c6524831df59f5e6d5f209a0d36612c4" group-title="Quốc tế" tvg-chno="188",Arirang
+#EXTINF:-1 logo="https://vnepg.site/logos/152.png" tvg-id="c6524831df59f5e6d5f209a0d36612c4" group-title="Quốc tế" tvg-chno="151",Arirang
 http://192.167.2.32:9981/stream/channelid/826823366?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/afnhd.png" tvg-id="54db9c54bbfe29ac2be82856d78dc2bd" group-title="Quốc tế" tvg-chno="189",Asian Food Network
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/afnhd.png" tvg-id="54db9c54bbfe29ac2be82856d78dc2bd" group-title="Quốc tế" tvg-chno="152",Asian Food Network
 http://192.167.2.32:9981/stream/channelid/1419565908?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/insertlogo.png" tvg-id="2b4071957351bb780acaa91f6dbcc48d" group-title="Quốc tế" tvg-chno="190",ATV
+#EXTINF:-1 logo="https://i.imgur.com/insertlogo.png" tvg-id="2b4071957351bb780acaa91f6dbcc48d" group-title="Quốc tế" tvg-chno="153",ATV
 http://192.167.2.32:9981/stream/channelid/359743531?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RuFdEA1.png" tvg-id="8885e50391297713607532bef3d4afeb" group-title="Quốc tế" tvg-chno="192",Baden TV Sud
+#EXTINF:-1 logo="https://i.imgur.com/RuFdEA1.png" tvg-id="8885e50391297713607532bef3d4afeb" group-title="Quốc tế" tvg-chno="154",Baden TV Sud
 http://192.167.2.32:9981/stream/channelid/65373576?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="b4a0b7ca85fe01f6ef3583bc46249c3d" group-title="Quốc tế" tvg-chno="193",BBC CBeeBies
+#EXTINF:-1 logo="https://i.imgur.com/0t99xJZ.png" tvg-id="b4a0b7ca85fe01f6ef3583bc46249c3d" group-title="Quốc tế" tvg-chno="155",BBC CBeeBies
 http://192.167.2.32:9981/stream/channelid/1253548212?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bbcworldnews.png" tvg-id="7ad1680ba4c52c17b45f6f5fa0efc8a3" group-title="Quốc tế" tvg-chno="194",BBC News
+#EXTINF:-1 logo="https://vnepg.site/logos/151.png" tvg-id="7ad1680ba4c52c17b45f6f5fa0efc8a3" group-title="Quốc tế" tvg-chno="156",BBC News
 http://192.167.2.32:9981/stream/channelid/191418746?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bloomberg.png" tvg-id="06cd855bb3200ec8065f10b712ff872b" group-title="Quốc tế" tvg-chno="195",Bloomberg
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bloomberg.png" tvg-id="06cd855bb3200ec8065f10b712ff872b" group-title="Quốc tế" tvg-chno="157",Bloomberg
 http://192.167.2.32:9981/stream/channelid/1535495430?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cartoonhd.png" tvg-id="1d883d6d2ea1c0473085f77859de8b38" group-title="Quốc tế" tvg-chno="197",Cartoon Network
-http://192.167.2.32:9981/stream/channelid/1832749085?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/rkF6lUv.png" tvg-id="84518459fba77453ff614c4d124800e1" group-title="Quốc tế" tvg-chno="198",CCTV2
-http://192.167.2.32:9981/stream/channelid/1501843844?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/rkF6lUv.png" tvg-id="e5f2b651ee393747dc91e585c057841b" group-title="Quốc tế" tvg-chno="199",CCTV2
-http://192.167.2.32:9981/stream/channelid/1370944229?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/XXBAJpA.png" tvg-id="2bb19818430b4ea32f6a2ae8595ae8e9" group-title="Quốc tế" tvg-chno="200",CCTV4
-http://192.167.2.32:9981/stream/channelid/412660011?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/ZtabYMS.png" tvg-id="94f8f5d064bbba4294f251356fb7bd80" group-title="Quốc tế" tvg-chno="201",CCTV7
-http://192.167.2.32:9981/stream/channelid/1358297236?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/J5I7ne4.png" tvg-id="5eb30da488c83f4d2e7f353dab18a8af" group-title="Quốc tế" tvg-chno="202",CCTV10
-http://192.167.2.32:9981/stream/channelid/604877662?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/J5I7ne4.png" tvg-id="d8743d15d1e5cf2936500c18bf503a59" group-title="Quốc tế" tvg-chno="203",CCTV10
-http://192.167.2.32:9981/stream/channelid/356349144?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/15Mu89g.png" tvg-id="a038de31cf0e4ded4a66dcdf98a4a777" group-title="Quốc tế" tvg-chno="204",CCTV12
-http://192.167.2.32:9981/stream/channelid/836647072?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/hg9DBpz.png" tvg-id="0d9b8768e5b24331fd1b2477367db010" group-title="Quốc tế" tvg-chno="205",CCTV13
-http://192.167.2.32:9981/stream/channelid/1753717517?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/TW3G7W9.png" tvg-id="4b8c9068ce32a4fa53e28ecd41bdcc50" group-title="Quốc tế" tvg-chno="206",CCTV14
-http://192.167.2.32:9981/stream/channelid/1754303563?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/SAQgczi.png" tvg-id="62a8f6f615ec7749e4be8d124736953a" group-title="Quốc tế" tvg-chno="207",CCTV15
-http://192.167.2.32:9981/stream/channelid/1995876450?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/H0hAm72.png" tvg-id="2b1a237ce7178e9385fd72f6344c69e1" group-title="Quốc tế" tvg-chno="211",CNBC
-http://192.167.2.32:9981/stream/channelid/2082675243?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/cnn.png" tvg-id="3b096c137a227cf3e2dcfcb0b7f75afd" group-title="Quốc tế" tvg-chno="212",CNN
-http://192.167.2.32:9981/stream/channelid/325847355?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/davinci.png" tvg-id="24bda87450fcbd14523d5239b9470f80" group-title="Quốc tế" tvg-chno="213",Da Vinci
-http://192.167.2.32:9981/stream/channelid/1957215524?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="be75b6ccad375c4165a1e4428a4d5ad9" group-title="Quốc tế" tvg-chno="214",Discovery Channel
-http://192.167.2.32:9981/stream/channelid/1287026110?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/OKvk2mU.png" tvg-id="a8a844a6c6341a0047de84e7c7a16014" group-title="Quốc tế" tvg-chno="215",Dragon TV
-http://192.167.2.32:9981/stream/channelid/642033832?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="a49c006169606d2f5c8909211a06bd95" group-title="Quốc tế" tvg-chno="216",DW
-http://192.167.2.32:9981/stream/channelid/1627430052?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="c1741caa032f7583f6dbedc80c5781a9" group-title="Quốc tế" tvg-chno="218",Fashion TV
-http://192.167.2.32:9981/stream/channelid/706507969?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/france24eng.png" tvg-id="98de809929eca977a833b2a8630744e8" group-title="Quốc tế" tvg-chno="219",France 24 (English)
-http://192.167.2.32:9981/stream/channelid/427875992?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/france24eng.png" tvg-id="d68ab078e3a3d05b96266c5906ae193d" group-title="Quốc tế" tvg-chno="220",France 24 (English)
-http://192.167.2.32:9981/stream/channelid/2024835798?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/IRjtg6r.png" tvg-id="726b1c4b72965bc0f2d25bc604ea8acf" group-title="Quốc tế" tvg-chno="221",France 24 (Francais)
-http://192.167.2.32:9981/stream/channelid/1260153714?profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/Y944An6.png" tvg-id="05bd137130a7de24bf66c17a7849f865" group-title="Quốc tế" tvg-chno="223",HSE
+#EXTINF:-1 logo="https://i.imgur.com/rkF6lUv.png" tvg-id="84518459fba77453ff614c4d124800e1" group-title="Quốc tế" tvg-chno="158",CCTV2
+http://192.167.2.32:9981/stream/channelid/1501843844?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/rkF6lUv.png" tvg-id="e5f2b651ee393747dc91e585c057841b" group-title="Quốc tế" tvg-chno="159",CCTV2
+http://192.167.2.32:9981/stream/channelid/1370944229?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/XXBAJpA.png" tvg-id="2bb19818430b4ea32f6a2ae8595ae8e9" group-title="Quốc tế" tvg-chno="160",CCTV4
+http://192.167.2.32:9981/stream/channelid/412660011?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ZtabYMS.png" tvg-id="94f8f5d064bbba4294f251356fb7bd80" group-title="Quốc tế" tvg-chno="161",CCTV7
+http://192.167.2.32:9981/stream/channelid/1358297236?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/J5I7ne4.png" tvg-id="5eb30da488c83f4d2e7f353dab18a8af" group-title="Quốc tế" tvg-chno="162",CCTV10
+http://192.167.2.32:9981/stream/channelid/604877662?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/J5I7ne4.png" tvg-id="d8743d15d1e5cf2936500c18bf503a59" group-title="Quốc tế" tvg-chno="163",CCTV10
+http://192.167.2.32:9981/stream/channelid/356349144?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/15Mu89g.png" tvg-id="a038de31cf0e4ded4a66dcdf98a4a777" group-title="Quốc tế" tvg-chno="164",CCTV12
+http://192.167.2.32:9981/stream/channelid/836647072?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hg9DBpz.png" tvg-id="0d9b8768e5b24331fd1b2477367db010" group-title="Quốc tế" tvg-chno="165",CCTV13
+http://192.167.2.32:9981/stream/channelid/1753717517?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/TW3G7W9.png" tvg-id="4b8c9068ce32a4fa53e28ecd41bdcc50" group-title="Quốc tế" tvg-chno="166",CCTV14
+http://192.167.2.32:9981/stream/channelid/1754303563?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/SAQgczi.png" tvg-id="62a8f6f615ec7749e4be8d124736953a" group-title="Quốc tế" tvg-chno="167",CCTV15
+http://192.167.2.32:9981/stream/channelid/1995876450?profile=pass
+#EXTINF:-1 logo="https://vnepg.site/logos/155.png" tvg-id="2b1a237ce7178e9385fd72f6344c69e1" group-title="Quốc tế" tvg-chno="168",CNBC
+http://192.167.2.32:9981/stream/channelid/2082675243?profile=pass
+#EXTINF:-1 logo="https://vnepg.site/logos/156.png" tvg-id="3b096c137a227cf3e2dcfcb0b7f75afd" group-title="Quốc tế" tvg-chno="169",CNN
+http://192.167.2.32:9981/stream/channelid/325847355?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/davinci.png" tvg-id="24bda87450fcbd14523d5239b9470f80" group-title="Quốc tế" tvg-chno="170",Da Vinci
+http://192.167.2.32:9981/stream/channelid/1957215524?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/discoveryhd.png" tvg-id="be75b6ccad375c4165a1e4428a4d5ad9" group-title="Quốc tế" tvg-chno="171",Discovery Channel
+http://192.167.2.32:9981/stream/channelid/1287026110?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/OKvk2mU.png" tvg-id="a8a844a6c6341a0047de84e7c7a16014" group-title="Quốc tế" tvg-chno="172",Dragon TV
+http://192.167.2.32:9981/stream/channelid/642033832?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="a49c006169606d2f5c8909211a06bd95" group-title="Quốc tế" tvg-chno="173",DW
+http://192.167.2.32:9981/stream/channelid/1627430052?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="c1741caa032f7583f6dbedc80c5781a9" group-title="Quốc tế" tvg-chno="174",Fashion TV
+http://192.167.2.32:9981/stream/channelid/706507969?profile=pass
+#EXTINF:-1 logo="https://vnepg.site/logos/159.png" tvg-id="98de809929eca977a833b2a8630744e8" group-title="Quốc tế" tvg-chno="175",France 24
+http://192.167.2.32:9981/stream/channelid/427875992?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/france24eng.png" tvg-id="d68ab078e3a3d05b96266c5906ae193d" group-title="Quốc tế" tvg-chno="176",France 24 (English)
+http://192.167.2.32:9981/stream/channelid/2024835798?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/IRjtg6r.png" tvg-id="726b1c4b72965bc0f2d25bc604ea8acf" group-title="Quốc tế" tvg-chno="177",France 24 (Francais)
+http://192.167.2.32:9981/stream/channelid/1260153714?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hbohd.png" tvg-id="95aa996d2e4e91b8a553bb4817f413c6" group-title="Quốc tế" tvg-chno="178",HBO
+http://192.167.2.32:9981/stream/channelid/1838787221?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Y944An6.png" tvg-id="05bd137130a7de24bf66c17a7849f865" group-title="Quốc tế" tvg-chno="179",HSE
 http://192.167.2.32:9981/stream/channelid/1897118981?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/g9RMxW8.png" tvg-id="86d3d4781fc738ef610fef873e52f60b" group-title="Quốc tế" tvg-chno="224",Hunan International
+#EXTINF:-1 logo="https://i.imgur.com/g9RMxW8.png" tvg-id="86d3d4781fc738ef610fef873e52f60b" group-title="Quốc tế" tvg-chno="180",Hunan International
 http://192.167.2.32:9981/stream/channelid/2027213702?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/tkGvrSY.png" tvg-id="ad610c8f833a27d66f0603d91d982740" group-title="Quốc tế" tvg-chno="225",Jiangsu International
+#EXTINF:-1 logo="https://i.imgur.com/tkGvrSY.png" tvg-id="ad610c8f833a27d66f0603d91d982740" group-title="Quốc tế" tvg-chno="181",Jiangsu International
 http://192.167.2.32:9981/stream/channelid/252469677?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/musicbox.png" tvg-id="c97af7d24a8f2e0cb54695f78b290b96" group-title="Quốc tế" tvg-chno="227",Music Box
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/musicbox.png" tvg-id="c97af7d24a8f2e0cb54695f78b290b96" group-title="Quốc tế" tvg-chno="182",Music Box
 http://192.167.2.32:9981/stream/channelid/1391950537?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/musicbox.png" tvg-id="56aeca42e8f18f37129d35958ddf0d29" group-title="Quốc tế" tvg-chno="228",Music Box
+#EXTINF:-1 logo="https://vnepg.site/logos/171.png" tvg-id="56aeca42e8f18f37129d35958ddf0d29" group-title="Quốc tế" tvg-chno="183",Music Box
 http://192.167.2.32:9981/stream/channelid/1120579158?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/nhkworld.png" tvg-id="f89b6a0ffe76764feb986054f3a3a437" group-title="Quốc tế" tvg-chno="229",NHK World Japan 
+#EXTINF:-1 logo="https://vnepg.site/logos/161.png" tvg-id="f89b6a0ffe76764feb986054f3a3a437" group-title="Quốc tế" tvg-chno="184",NHK World Japan 
 http://192.167.2.32:9981/stream/channelid/258644984?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/RB4ymyh.png" tvg-id="e4f9c07a64ceae39a8f6c8ddeb9bbfa6" group-title="Quốc tế" tvg-chno="230",NHK Premium
+#EXTINF:-1 logo="https://i.imgur.com/RB4ymyh.png" tvg-id="e4f9c07a64ceae39a8f6c8ddeb9bbfa6" group-title="Quốc tế" tvg-chno="185",NHK Premium
 http://192.167.2.32:9981/stream/channelid/2059467236?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/lquiFgx.png" tvg-id="b584fada30c67d7f8f152740e0178dff" group-title="Quốc tế" tvg-chno="231",OBS
+#EXTINF:-1 logo="https://i.imgur.com/lquiFgx.png" tvg-id="b584fada30c67d7f8f152740e0178dff" group-title="Quốc tế" tvg-chno="186",OBS
 http://192.167.2.32:9981/stream/channelid/1526367413?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/n93KZnX.png" tvg-id="f4a186f444089ea58b9f3487a73573bd" group-title="Quốc tế" tvg-chno="232",Phoenix Chinese Channel
+#EXTINF:-1 logo="https://i.imgur.com/n93KZnX.png" tvg-id="f4a186f444089ea58b9f3487a73573bd" group-title="Quốc tế" tvg-chno="187",Phoenix Chinese Channel
 http://192.167.2.32:9981/stream/channelid/1954980340?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/CAcJfPZ.png" tvg-id="7c37eab8805faf728d0143cad99e94aa" group-title="Quốc tế" tvg-chno="233",Phoenix Infonews Channel
+#EXTINF:-1 logo="https://i.imgur.com/CAcJfPZ.png" tvg-id="7c37eab8805faf728d0143cad99e94aa" group-title="Quốc tế" tvg-chno="188",Phoenix Infonews Channel
 http://192.167.2.32:9981/stream/channelid/954873724?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/MfWQxD2.png" tvg-id="4e506c249c818bd942bb81a8fa5187c9" group-title="Quốc tế" tvg-chno="234",POCCNR PTP
+#EXTINF:-1 logo="https://i.imgur.com/MfWQxD2.png" tvg-id="4e506c249c818bd942bb81a8fa5187c9" group-title="Quốc tế" tvg-chno="189",POCCNR PTP
 http://192.167.2.32:9981/stream/channelid/611078222?profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/Rossiya-24_Rus.png" tvg-id="11b43b43fa542ac3cf316e595c123699" group-title="Quốc tế" tvg-chno="235",POCCNR 24
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/Rossiya-24_Rus.png" tvg-id="11b43b43fa542ac3cf316e595c123699" group-title="Quốc tế" tvg-chno="190",POCCNR 24
 http://192.167.2.32:9981/stream/channelid/1127986193?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/k2pDbHR.png" tvg-id="96bc9dc3b8f614c75b28a41798ce2822" group-title="Quốc tế" tvg-chno="236",Rai 3
+#EXTINF:-1 logo="https://i.imgur.com/k2pDbHR.png" tvg-id="96bc9dc3b8f614c75b28a41798ce2822" group-title="Quốc tế" tvg-chno="191",Rai 3
 http://192.167.2.32:9981/stream/channelid/1134410902?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/JRVJl0L.png" tvg-id="6bb456c3d10a646515dd8524228179a5" group-title="Quốc tế" tvg-chno="237",Russia Today
+#EXTINF:-1 logo="https://i.imgur.com/JRVJl0L.png" tvg-id="6bb456c3d10a646515dd8524228179a5" group-title="Quốc tế" tvg-chno="192",Russia Today
 http://192.167.2.32:9981/stream/channelid/1129755755?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/yhWvggM.png" tvg-id="968ebb98ac6e853e5b464c18a283b544" group-title="Quốc tế" tvg-chno="238",Russia Today Deutsch
+#EXTINF:-1 logo="https://i.imgur.com/yhWvggM.png" tvg-id="968ebb98ac6e853e5b464c18a283b544" group-title="Quốc tế" tvg-chno="193",Russia Today Deutsch
 http://192.167.2.32:9981/stream/channelid/414944918?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/6bUPlxA.png" tvg-id="c0913ccbe9c5866bab823f199d1632fa" group-title="Quốc tế" tvg-chno="239",Shenzhen
+#EXTINF:-1 logo="https://i.imgur.com/6bUPlxA.png" tvg-id="c0913ccbe9c5866bab823f199d1632fa" group-title="Quốc tế" tvg-chno="194",Shenzhen
 http://192.167.2.32:9981/stream/channelid/1262260672?profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/dX2hQHJ.png" tvg-id="b9e5d7069fdb88aad257e3eb35159e2b" group-title="Quốc tế" tvg-chno="242",TDM Macau
+#EXTINF:-1 logo="https://i.imgur.com/dX2hQHJ.png" tvg-id="b9e5d7069fdb88aad257e3eb35159e2b" group-title="Quốc tế" tvg-chno="195",TDM Macau
 http://192.167.2.32:9981/stream/channelid/114812345?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tlchd.png" tvg-id="aee0d2433a467ad91cc23a553e42f061" group-title="Quốc tế" tvg-chno="243",TLC
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tlchd.png" tvg-id="aee0d2433a467ad91cc23a553e42f061" group-title="Quốc tế" tvg-chno="196",TLC
 http://192.167.2.32:9981/stream/channelid/1137893550?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tv5monde.png" tvg-id="8a68eb4326281d206f86d606438a8285" group-title="Quốc tế" tvg-chno="244",TV5 Monde Asie
+#EXTINF:-1 logo="https://vnepg.site/logos/162.png" tvg-id="8a68eb4326281d206f86d606438a8285" group-title="Quốc tế" tvg-chno="197",TV5MONDE
 http://192.167.2.32:9981/stream/channelid/1139501194?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="ee5b1a3eebad5203031c5daa9c636cd5" group-title="Quốc tế" tvg-chno="245",WBTV
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/warnertvhd.png" tvg-id="ee5b1a3eebad5203031c5daa9c636cd5" group-title="Quốc tế" tvg-chno="198",WBTV
 http://192.167.2.32:9981/stream/channelid/1041914862?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/APpNWp4.png" tvg-id="6d8125e102f3cb53e5ec76e55a42dca1" group-title="Quốc tế" tvg-chno="246",WDR
+#EXTINF:-1 logo="https://i.imgur.com/APpNWp4.png" tvg-id="6d8125e102f3cb53e5ec76e55a42dca1" group-title="Quốc tế" tvg-chno="199",WDR
 http://192.167.2.32:9981/stream/channelid/1629847917?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/3jlwft1.png" tvg-id="0abcc928fd1086f7191edbaccce75c90" group-title="Quốc tế" tvg-chno="247",Xing Kong
+#EXTINF:-1 logo="https://i.imgur.com/3jlwft1.png" tvg-id="0abcc928fd1086f7191edbaccce75c90" group-title="Quốc tế" tvg-chno="200",Xing Kong
 http://192.167.2.32:9981/stream/channelid/684309514?profile=pass
 
 #---Địa phương---#
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" tvg-id="d127c430947d83394c379086a9059092" group-title="Địa phương" tvg-chno="280",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" tvg-id="d127c430947d83394c379086a9059092" group-title="Địa phương" tvg-chno="201",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 http://192.167.2.32:9981/stream/channelid/818161617?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" tvg-id="46631f7facc8eb79f8f2be1473853e3d" group-title="Địa phương" tvg-chno="282",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" tvg-id="46631f7facc8eb79f8f2be1473853e3d" group-title="Địa phương" tvg-chno="202",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/2132763462?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" tvg-id="ec1313ab410a6d03700c7d0715544d86" group-title="Địa phương" tvg-chno="283",THVL3 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" tvg-id="ec1313ab410a6d03700c7d0715544d86" group-title="Địa phương" tvg-chno="203",THVL3 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 http://192.167.2.32:9981/stream/channelid/722670572?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" tvg-id="2d27eef812786a84c387eeb5852875f6" group-title="Địa phương" tvg-chno="284",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" tvg-id="2d27eef812786a84c387eeb5852875f6" group-title="Địa phương" tvg-chno="204",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 http://192.167.2.32:9981/stream/channelid/2028873517?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" tvg-id="642ffa5fcbe28dd470a5db045b4e625a" group-title="Địa phương" tvg-chno="347",THVL2 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" tvg-id="642ffa5fcbe28dd470a5db045b4e625a" group-title="Địa phương" tvg-chno="205",THVL2 | Báo và Đài PTTH Vĩnh Long
 http://192.167.2.32:9981/stream/channelid/1610231652?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" tvg-id="d41d93ff52b58ba2c9b041b997bc5af2" group-title="Địa phương" tvg-chno="348",THVL1 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" tvg-id="d41d93ff52b58ba2c9b041b997bc5af2" group-title="Địa phương" tvg-chno="206",THVL1 | Báo và Đài PTTH Vĩnh Long
 http://192.167.2.32:9981/stream/channelid/2140347860?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" tvg-id="3b7f13b298ae5379d188feb34be11da5" group-title="Địa phương" tvg-chno="349",THVL2 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" tvg-id="3b7f13b298ae5379d188feb34be11da5" group-title="Địa phương" tvg-chno="207",THVL2 | Báo và Đài PTTH Vĩnh Long
 http://192.167.2.32:9981/stream/channelid/840138555?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" tvg-id="097cefb6a1d3c222f7bbe215ac9b5c6b" group-title="Địa phương" tvg-chno="350",THVL3 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" tvg-id="097cefb6a1d3c222f7bbe215ac9b5c6b" group-title="Địa phương" tvg-chno="208",THVL3 | Báo và Đài PTTH Vĩnh Long
 http://192.167.2.32:9981/stream/channelid/921664521?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" tvg-id="9a19fbdf40d0c4f7a5bb8905aa5fa42f" group-title="Địa phương" tvg-chno="351",THVL4 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" tvg-id="9a19fbdf40d0c4f7a5bb8905aa5fa42f" group-title="Địa phương" tvg-chno="209",THVL4 | Báo và Đài PTTH Vĩnh Long
 http://192.167.2.32:9981/stream/channelid/1610291610?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" tvg-id="0f0d9a09a8b0cb5b2022731df949bf56" group-title="Địa phương" tvg-chno="248",THLC HD | Báo Lào Cai (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" tvg-id="0f0d9a09a8b0cb5b2022731df949bf56" group-title="Địa phương" tvg-chno="210",THLC HD | Báo Lào Cai (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/161090831?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thainguyen.png" tvg-id="027f1108f4bca0714c1e5847193f1502" group-title="Địa phương" tvg-chno="249",TN | Báo và PTTH Thái Nguyên (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thainguyen.png" tvg-id="027f1108f4bca0714c1e5847193f1502" group-title="Địa phương" tvg-chno="211",TN | Báo và PTTH Thái Nguyên (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/135364354?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" tvg-id="b9b43d50adfef90ddb4a95faf16ba7d1" group-title="Địa phương" tvg-chno="251",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" tvg-id="b9b43d50adfef90ddb4a95faf16ba7d1" group-title="Địa phương" tvg-chno="212",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1346221241?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" tvg-id="8d5121b6795787eae80ca9ff90125bac" group-title="Địa phương" tvg-chno="252",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" tvg-id="8d5121b6795787eae80ca9ff90125bac" group-title="Địa phương" tvg-chno="213",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/908153229?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" tvg-id="9e3fe2a4d0283004b439551fb053130c" group-title="Địa phương" tvg-chno="254",BTV | Báo và PTTH Bắc Ninh (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" tvg-id="9e3fe2a4d0283004b439551fb053130c" group-title="Địa phương" tvg-chno="214",BTV | Báo và PTTH Bắc Ninh (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/618807198?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hanoi1.png" tvg-id="0601e3ee9ed3ebc3b84eebbf22c6ebcd" group-title="Địa phương" tvg-chno="259",H1 HD | Đài Hà Nội (HD 4Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hanoi1.png" tvg-id="0601e3ee9ed3ebc3b84eebbf22c6ebcd" group-title="Địa phương" tvg-chno="215",H1 HD | Đài Hà Nội (HD 4Mbps)
 http://192.167.2.32:9981/stream/channelid/1860370694?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hanoi2.png" tvg-id="c13dbcd74fe2e79ceb9f419c5ba7751d" group-title="Địa phương" tvg-chno="260",H2 HD | Đài Hà Nội (HD 4Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hanoi2.png" tvg-id="c13dbcd74fe2e79ceb9f419c5ba7751d" group-title="Địa phương" tvg-chno="216",H2 HD | Đài Hà Nội (HD 4Mbps)
 http://192.167.2.32:9981/stream/channelid/1471954369?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" tvg-id="de7d7654b45aab08649de70762de485d" group-title="Địa phương" tvg-chno="261",THP | Báo và PTTH Hải Phòng (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" tvg-id="de7d7654b45aab08649de70762de485d" group-title="Địa phương" tvg-chno="217",THP | Báo và PTTH Hải Phòng (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1417051614?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="f2556a8a712788d1496ff34d53c52151" group-title="Địa phương" tvg-chno="263",THP3 | Báo và PTTH Hải Phòng (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="f2556a8a712788d1496ff34d53c52151" group-title="Địa phương" tvg-chno="218",THP3 | Báo và PTTH Hải Phòng (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/174740978?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" tvg-id="307f504098f18eb3598f042de042bceb" group-title="Địa phương" tvg-chno="264",HY HD | Báo và PTTH Hưng Yên (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" tvg-id="307f504098f18eb3598f042de042bceb" group-title="Địa phương" tvg-chno="219",HY HD | Báo và PTTH Hưng Yên (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1079017264?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="ab88994c309389309a9b5e72db3738dc" group-title="Địa phương" tvg-chno="265",NBTV HD | Báo và Đài PTTH Ninh Bình (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="ab88994c309389309a9b5e72db3738dc" group-title="Địa phương" tvg-chno="220",NBTV HD | Báo và Đài PTTH Ninh Bình (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/1285130411?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" tvg-id="f43a3d9609c2f62ce20df045fbd5e9e9" group-title="Địa phương" tvg-chno="266",TTV | Báo và Đài PTTH Thanh Hóa (HD 7.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" tvg-id="f43a3d9609c2f62ce20df045fbd5e9e9" group-title="Địa phương" tvg-chno="221",TTV | Báo và Đài PTTH Thanh Hóa (HD 7.5Mbps)
 http://192.167.2.32:9981/stream/channelid/373111540?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" tvg-id="7934767d99d80745fabd48f5f2bc4430" group-title="Địa phương" tvg-chno="267",NTV HD | Báo và Đài PTTH Nghệ An (HD 5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" tvg-id="7934767d99d80745fabd48f5f2bc4430" group-title="Địa phương" tvg-chno="222",NTV HD | Báo và Đài PTTH Nghệ An (HD 5Mbps)
 http://192.167.2.32:9981/stream/channelid/2104898681?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" tvg-id="987bd77089599a670cc6124f56836a17" group-title="Địa phương" tvg-chno="268",BHTTV | Báo Hà Tĩnh (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" tvg-id="987bd77089599a670cc6124f56836a17" group-title="Địa phương" tvg-chno="223",BHTTV | Báo Hà Tĩnh (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1893170072?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" tvg-id="86996182059c6cca559eace17f3857e7" group-title="Địa phương" tvg-chno="269",QTTV | Báo và PTTH Quảng Trị (HD 7.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" tvg-id="86996182059c6cca559eace17f3857e7" group-title="Địa phương" tvg-chno="224",QTTV | Báo và PTTH Quảng Trị (HD 7.5Mbps)
 http://192.167.2.32:9981/stream/channelid/39950726?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="bed6815cc945c5104efc642b9ecd2c7f" group-title="Địa phương" tvg-chno="270",QNgTV | Báo và PTTH Quảng Ngãi (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="bed6815cc945c5104efc642b9ecd2c7f" group-title="Địa phương" tvg-chno="225",QNgTV | Báo và PTTH Quảng Ngãi (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1552012990?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="0c2f3841a673fb6a490169f9a424794c" group-title="Địa phương" tvg-chno="271",QNgTV | Báo và PTTH Quảng Ngãi (HD 5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="0c2f3841a673fb6a490169f9a424794c" group-title="Địa phương" tvg-chno="226",QNgTV | Báo và PTTH Quảng Ngãi (HD 5Mbps)
 http://192.167.2.32:9981/stream/channelid/1094201100?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="3505916844a1cdc00b10ed407305dc07" group-title="Địa phương" tvg-chno="272",DRT HD | Báo và PTTH Đắk Lắk (HD 5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="3505916844a1cdc00b10ed407305dc07" group-title="Địa phương" tvg-chno="227",DRT HD | Báo và PTTH Đắk Lắk (HD 5Mbps)
 http://192.167.2.32:9981/stream/channelid/1754334517?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/anvienhd.png" tvg-id="e915c416e6703e6f7920850afe75f125" group-title="Địa phương" tvg-chno="274",BTV9 B Channel (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/anvienhd.png" tvg-id="e915c416e6703e6f7920850afe75f125" group-title="Địa phương" tvg-chno="228",BTV9 B Channel (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/381949417?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="18a9404aa98d516b8d88ca847504fefc" group-title="Địa phương" tvg-chno="286",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="18a9404aa98d516b8d88ca847504fefc" group-title="Địa phương" tvg-chno="229",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1245751576?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" tvg-id="b02d01475a3573a60c25b8b3e389d5e6" group-title="Địa phương" tvg-chno="288",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" tvg-id="b02d01475a3573a60c25b8b3e389d5e6" group-title="Địa phương" tvg-chno="230",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1191259568?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh3.png" tvg-id="668857af2a5b39277e42e72440b7c962" group-title="Địa phương" tvg-chno="289",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 6.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh3.png" tvg-id="668857af2a5b39277e42e72440b7c962" group-title="Địa phương" tvg-chno="231",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/794265702?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" tvg-id="bc2dfea3cdffc96ab8a509a7478f407f" group-title="Địa phương" tvg-chno="290",THLC | Báo Lào Cai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" tvg-id="bc2dfea3cdffc96ab8a509a7478f407f" group-title="Địa phương" tvg-chno="232",THLC | Báo Lào Cai
 http://192.167.2.32:9981/stream/channelid/603860412?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" tvg-id="c9738f9ad6de592d6708d31b2946b93b" group-title="Địa phương" tvg-chno="291",THLC | Báo Lào Cai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" tvg-id="c9738f9ad6de592d6708d31b2946b93b" group-title="Địa phương" tvg-chno="233",THLC | Báo Lào Cai
 http://192.167.2.32:9981/stream/channelid/445608905?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dienbien.png" tvg-id="6aaf6d4a9ba0392fd5e1bf954cefc82d" group-title="Địa phương" tvg-chno="292",ĐTV | Báo Điện Biên Phủ
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dienbien.png" tvg-id="6aaf6d4a9ba0392fd5e1bf954cefc82d" group-title="Địa phương" tvg-chno="234",ĐTV | Báo Điện Biên Phủ
 http://192.167.2.32:9981/stream/channelid/1248702314?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/sonla.png" tvg-id="0874bbf79bd872c707bdcb571244a3f8" group-title="Địa phương" tvg-chno="294",STV | Báo và PTTH Sơn La
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/sonla.png" tvg-id="0874bbf79bd872c707bdcb571244a3f8" group-title="Địa phương" tvg-chno="235",STV | Báo và PTTH Sơn La
 http://192.167.2.32:9981/stream/channelid/2008773640?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tuyenquang.png" tvg-id="b0a13ba770b5a866b7b3e25cab247c69" group-title="Địa phương" tvg-chno="295",TTV | Báo và Đài PTTH Tuyên Quang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tuyenquang.png" tvg-id="b0a13ba770b5a866b7b3e25cab247c69" group-title="Địa phương" tvg-chno="236",TTV | Báo và Đài PTTH Tuyên Quang
 http://192.167.2.32:9981/stream/channelid/658219440?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tuyenquang.png" tvg-id="afb4c803052e1a2adfda6e4181f0b140" group-title="Địa phương" tvg-chno="296",TTV | Báo và Đài PTTH Tuyên Quang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tuyenquang.png" tvg-id="afb4c803052e1a2adfda6e4181f0b140" group-title="Địa phương" tvg-chno="237",TTV | Báo và Đài PTTH Tuyên Quang
 http://192.167.2.32:9981/stream/channelid/63485103?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/caobang.png" tvg-id="e5db83d74ca10d0a7abecba4be369858" group-title="Địa phương" tvg-chno="297",CRTV | Báo Cao Bằng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/caobang.png" tvg-id="e5db83d74ca10d0a7abecba4be369858" group-title="Địa phương" tvg-chno="238",CRTV | Báo Cao Bằng
 http://192.167.2.32:9981/stream/channelid/1468259301?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" tvg-id="d28b2f724895f9a943d0c5aae499c293" group-title="Địa phương" tvg-chno="301",PTV | Báo và Đài PTTH Phú Thọ
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" tvg-id="d28b2f724895f9a943d0c5aae499c293" group-title="Địa phương" tvg-chno="239",PTV | Báo và Đài PTTH Phú Thọ
 http://192.167.2.32:9981/stream/channelid/1915718610?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" tvg-id="b4e58e8042cdfcc8c889c2eac2e55eb1" group-title="Địa phương" tvg-chno="304",BTV | Báo và PTTH Bắc Ninh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" tvg-id="b4e58e8042cdfcc8c889c2eac2e55eb1" group-title="Địa phương" tvg-chno="240",BTV | Báo và PTTH Bắc Ninh
 http://192.167.2.32:9981/stream/channelid/9364916?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" tvg-id="35181934cf495821ab15d4dcb239b45d" group-title="Địa phương" tvg-chno="306",QTV1 | Trung tâm Truyền thông Quảng Ninh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" tvg-id="35181934cf495821ab15d4dcb239b45d" group-title="Địa phương" tvg-chno="241",QTV1 | Trung tâm Truyền thông Quảng Ninh
 http://192.167.2.32:9981/stream/channelid/874059829?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" tvg-id="538588e736a804ec6a65b6b2bdc0b492" group-title="Địa phương" tvg-chno="309",THP | Báo và PTTH Hải Phòng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" tvg-id="538588e736a804ec6a65b6b2bdc0b492" group-title="Địa phương" tvg-chno="242",THP | Báo và PTTH Hải Phòng
 http://192.167.2.32:9981/stream/channelid/1737000275?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="480b7a7cedfcd48024949d6a6a37b86b" group-title="Địa phương" tvg-chno="311",THP3 | Báo và PTTH Hải Phòng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="480b7a7cedfcd48024949d6a6a37b86b" group-title="Địa phương" tvg-chno="243",THP3 | Báo và PTTH Hải Phòng
 http://192.167.2.32:9981/stream/channelid/2088373064?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" tvg-id="fd792a9568e66c7dca79ccf8dc8e5aa2" group-title="Địa phương" tvg-chno="312",HY | Báo và PTTH Hưng Yên
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" tvg-id="fd792a9568e66c7dca79ccf8dc8e5aa2" group-title="Địa phương" tvg-chno="244",HY | Báo và PTTH Hưng Yên
 http://192.167.2.32:9981/stream/channelid/355105277?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="1b3ed5ffa9db87e52ca63c6c9908e118" group-title="Địa phương" tvg-chno="314",NBTV | Báo và Đài PTTH Ninh Bình
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="1b3ed5ffa9db87e52ca63c6c9908e118" group-title="Địa phương" tvg-chno="245",NBTV | Báo và Đài PTTH Ninh Bình
 http://192.167.2.32:9981/stream/channelid/2144681499?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="876fa47fdde211f96c0e150e92e7016b" group-title="Địa phương" tvg-chno="315",NBTV | Báo và Đài PTTH Ninh Bình
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="876fa47fdde211f96c0e150e92e7016b" group-title="Địa phương" tvg-chno="246",NBTV | Báo và Đài PTTH Ninh Bình
 http://192.167.2.32:9981/stream/channelid/2141482887?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="617bc99ce2b36d3127f2cc4acebada6d" group-title="Địa phương" tvg-chno="316",NBTV | Báo và Đài PTTH Ninh Bình
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" tvg-id="617bc99ce2b36d3127f2cc4acebada6d" group-title="Địa phương" tvg-chno="247",NBTV | Báo và Đài PTTH Ninh Bình
 http://192.167.2.32:9981/stream/channelid/482966369?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" tvg-id="cdd4adcc3d4d3321664a2bcc1e0cffc2" group-title="Địa phương" tvg-chno="317",TTV | Báo và Đài PTTH Thanh Hóa
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" tvg-id="cdd4adcc3d4d3321664a2bcc1e0cffc2" group-title="Địa phương" tvg-chno="248",TTV | Báo và Đài PTTH Thanh Hóa
 http://192.167.2.32:9981/stream/channelid/1286460621?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" tvg-id="3d1d43b1f7aa99b8fe43befa2aaa2f9c" group-title="Địa phương" tvg-chno="318",NTV | Báo và Đài PTTH Nghệ An
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" tvg-id="3d1d43b1f7aa99b8fe43befa2aaa2f9c" group-title="Địa phương" tvg-chno="249",NTV | Báo và Đài PTTH Nghệ An
 http://192.167.2.32:9981/stream/channelid/826481981?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" tvg-id="b05b4220a197451a7aba0d906900f397" group-title="Địa phương" tvg-chno="319",BHTTV | Báo Hà Tĩnh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" tvg-id="b05b4220a197451a7aba0d906900f397" group-title="Địa phương" tvg-chno="250",BHTTV | Báo Hà Tĩnh
 http://192.167.2.32:9981/stream/channelid/541219760?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" tvg-id="973c427e120ed6c320bb3ce414884966" group-title="Địa phương" tvg-chno="321",QTTV | Báo và PTTH Quảng Trị
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" tvg-id="973c427e120ed6c320bb3ce414884966" group-title="Địa phương" tvg-chno="251",QTTV | Báo và PTTH Quảng Trị
 http://192.167.2.32:9981/stream/channelid/2118270103?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hue.png" tvg-id="81b595713771d612a14f4bdc82b2789e" group-title="Địa phương" tvg-chno="322",HUETV | Báo và PTTH Huế
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hue.png" tvg-id="81b595713771d612a14f4bdc82b2789e" group-title="Địa phương" tvg-chno="252",HUETV | Báo và PTTH Huế
 http://192.167.2.32:9981/stream/channelid/1905636737?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang1.png" tvg-id="9a06da363c01ab5f272c147123ffe2a0" group-title="Địa phương" tvg-chno="323",ĐNRT1 | Báo và Đài PTTH Đà Nẵng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang1.png" tvg-id="9a06da363c01ab5f272c147123ffe2a0" group-title="Địa phương" tvg-chno="253",ĐNRT1 | Báo và Đài PTTH Đà Nẵng
 http://192.167.2.32:9981/stream/channelid/920258202?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang2.png" tvg-id="b4f52549c3ed448a475106d922929841" group-title="Địa phương" tvg-chno="324",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang2.png" tvg-id="b4f52549c3ed448a475106d922929841" group-title="Địa phương" tvg-chno="254",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
 http://192.167.2.32:9981/stream/channelid/1227224500?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang2.png" tvg-id="1847111a61897f487dbf89e1b46310c7" group-title="Địa phương" tvg-chno="325",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang2.png" tvg-id="1847111a61897f487dbf89e1b46310c7" group-title="Địa phương" tvg-chno="255",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
 http://192.167.2.32:9981/stream/channelid/437339928?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="6376e46ccb22d6d847d2189e84cf8f31" group-title="Địa phương" tvg-chno="326",QNgTV | Báo và PTTH Quảng Ngãi
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="6376e46ccb22d6d847d2189e84cf8f31" group-title="Địa phương" tvg-chno="256",QNgTV | Báo và PTTH Quảng Ngãi
 http://192.167.2.32:9981/stream/channelid/1826911843?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="e1ac53766dc0abe6ddf45ccd64b24992" group-title="Địa phương" tvg-chno="327",QNgTV | Báo và PTTH Quảng Ngãi
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" tvg-id="e1ac53766dc0abe6ddf45ccd64b24992" group-title="Địa phương" tvg-chno="257",QNgTV | Báo và PTTH Quảng Ngãi
 http://192.167.2.32:9981/stream/channelid/1985195233?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/khanhhoa.png" tvg-id="2f636bf94e5c8397cbe66a70b959085c" group-title="Địa phương" tvg-chno="328",KTV | Báo và PTTH Khánh Hòa
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/khanhhoa.png" tvg-id="2f636bf94e5c8397cbe66a70b959085c" group-title="Địa phương" tvg-chno="258",KTV | Báo và PTTH Khánh Hòa
 http://192.167.2.32:9981/stream/channelid/2037080879?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/gialai.png" tvg-id="61dab2503e7f75938015edd0ca00ed1b" group-title="Địa phương" tvg-chno="330",GTV | Báo và PTTH Gia Lai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/gialai.png" tvg-id="61dab2503e7f75938015edd0ca00ed1b" group-title="Địa phương" tvg-chno="259",GTV | Báo và PTTH Gia Lai
 http://192.167.2.32:9981/stream/channelid/1353898593?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/gialai.png" tvg-id="70210d2cb825efa8a1c2adcec5203f66" group-title="Địa phương" tvg-chno="331",GTV | Báo và PTTH Gia Lai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/gialai.png" tvg-id="70210d2cb825efa8a1c2adcec5203f66" group-title="Địa phương" tvg-chno="260",GTV | Báo và PTTH Gia Lai
 http://192.167.2.32:9981/stream/channelid/739058032?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="e9b37b66dd502d065351e0fd1b9c8e9e" group-title="Địa phương" tvg-chno="332",DRT | Báo và PTTH Đắk Lắk
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="e9b37b66dd502d065351e0fd1b9c8e9e" group-title="Địa phương" tvg-chno="261",DRT | Báo và PTTH Đắk Lắk
 http://192.167.2.32:9981/stream/channelid/1719383017?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="278e428b5e87a147b63be2b3bfa6fbf9" group-title="Địa phương" tvg-chno="333",DRT | Báo và PTTH Đắk Lắk
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="278e428b5e87a147b63be2b3bfa6fbf9" group-title="Địa phương" tvg-chno="262",DRT | Báo và PTTH Đắk Lắk
 http://192.167.2.32:9981/stream/channelid/188911143?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="3fd016d250f0a44b67e251603f1e02b1" group-title="Địa phương" tvg-chno="335",LTV | Báo và PTTH Lâm Đồng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="3fd016d250f0a44b67e251603f1e02b1" group-title="Địa phương" tvg-chno="263",LTV | Báo và PTTH Lâm Đồng
 http://192.167.2.32:9981/stream/channelid/1377226815?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="ccc11a4a4773459778773051289cb7cc" group-title="Địa phương" tvg-chno="336",LTV | Báo và PTTH Lâm Đồng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="ccc11a4a4773459778773051289cb7cc" group-title="Địa phương" tvg-chno="264",LTV | Báo và PTTH Lâm Đồng
 http://192.167.2.32:9981/stream/channelid/1243267532?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai2.png" tvg-id="9efc45766213a07ad0a885e5e9378459" group-title="Địa phương" tvg-chno="341",ĐNRTV2 | Báo và Đài PTTH Đồng Nai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai2.png" tvg-id="9efc45766213a07ad0a885e5e9378459" group-title="Địa phương" tvg-chno="265",ĐNRTV2 | Báo và Đài PTTH Đồng Nai
 http://192.167.2.32:9981/stream/channelid/1984298142?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/longan.png" tvg-id="3b06d58c5a1875dcea047a648798dab0" group-title="Địa phương" tvg-chno="342",TTV1 | Báo và PTTH Tây Ninh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/longan.png" tvg-id="3b06d58c5a1875dcea047a648798dab0" group-title="Địa phương" tvg-chno="266",TTV1 | Báo và PTTH Tây Ninh
 http://192.167.2.32:9981/stream/channelid/215287355?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vungtau.png" tvg-id="d4607b3738a2a7e31a21f27fd4bddbde" group-title="Địa phương" tvg-chno="344",BRT | Đài PTTH Bà Rịa Vũng Tàu
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vungtau.png" tvg-id="d4607b3738a2a7e31a21f27fd4bddbde" group-title="Địa phương" tvg-chno="267",BRT | Đài PTTH Bà Rịa Vũng Tàu
 http://192.167.2.32:9981/stream/channelid/930832596?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" tvg-id="498720fb202cc4865bb7f1a8f773e46f" group-title="Địa phương" tvg-chno="345",THĐT1 | Báo và Đài PTTH Đồng Tháp
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" tvg-id="498720fb202cc4865bb7f1a8f773e46f" group-title="Địa phương" tvg-chno="268",THĐT1 | Báo và Đài PTTH Đồng Tháp
 http://192.167.2.32:9981/stream/channelid/2065729353?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" tvg-id="ce177a3eac503e12d475747b4d632b1f" group-title="Địa phương" tvg-chno="346",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" tvg-id="ce177a3eac503e12d475747b4d632b1f" group-title="Địa phương" tvg-chno="269",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
 http://192.167.2.32:9981/stream/channelid/1048188878?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="770eff294ec89a02d248a8a1502d3d84" group-title="Địa phương" tvg-chno="354",ATV2 | Báo và PTTH An Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="770eff294ec89a02d248a8a1502d3d84" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
 http://192.167.2.32:9981/stream/channelid/704581239?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="26cdc6f83cc14caf04f4b066f2db6445" group-title="Địa phương" tvg-chno="355",CTV | Báo và Đài PTTH Cà Mau
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="26cdc6f83cc14caf04f4b066f2db6445" group-title="Địa phương" tvg-chno="271",CTV | Báo và Đài PTTH Cà Mau
 http://192.167.2.32:9981/stream/channelid/2026294566?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="499be17c925cf918a62b38617e74bc67" group-title="Địa phương" tvg-chno="356",CTV | Báo và Đài PTTH Cà Mau
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="499be17c925cf918a62b38617e74bc67" group-title="Địa phương" tvg-chno="272",CTV | Báo và Đài PTTH Cà Mau
 http://192.167.2.32:9981/stream/channelid/2095160137?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/soctrang.png" tvg-id="3d1f1d9b9f3a6d95e4af6adb2bbe02a9" group-title="Địa phương" tvg-chno="358",THTPCT | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/soctrang.png" tvg-id="3d1f1d9b9f3a6d95e4af6adb2bbe02a9" group-title="Địa phương" tvg-chno="273",THTPCT | Đài PTTH Thành phố Cần Thơ
 http://192.167.2.32:9981/stream/channelid/454893373?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="49f0a14127576abd5c511c1e5ce89ead" group-title="Địa phương" tvg-chno="360",THP3 | Báo và PTTH Hải Phòng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="49f0a14127576abd5c511c1e5ce89ead" group-title="Địa phương" tvg-chno="274",THP3 | Báo và PTTH Hải Phòng
 http://192.167.2.32:9981/stream/channelid/1101131849?profile=pass
 
 #---Event---#
 
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="0ccee4ed7a749fdfdb38c1ed086b57eb" group-title="Event" tvg-chno="361",Feed Quốc Hội
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="0ccee4ed7a749fdfdb38c1ed086b57eb" group-title="Event" tvg-chno="275",Feed Quốc Hội
 http://192.167.2.32:9981/stream/channelid/1843711500?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="fa6a7bd0039b3fb988865526fb1bd273" group-title="Event" tvg-chno="362",Event 801
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="fa6a7bd0039b3fb988865526fb1bd273" group-title="Event" tvg-chno="276",Event 801
 http://192.167.2.32:9981/stream/channelid/1350265594?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="50e583e861bf0eb08e00ac0a0ee98545" group-title="Event" tvg-chno="363",Event 802
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="50e583e861bf0eb08e00ac0a0ee98545" group-title="Event" tvg-chno="277",Event 802
 http://192.167.2.32:9981/stream/channelid/1753474384?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="beccec92c1a6920209324ead628a46d9" group-title="Event" tvg-chno="364",Event 803
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="beccec92c1a6920209324ead628a46d9" group-title="Event" tvg-chno="278",Event 803
 http://192.167.2.32:9981/stream/channelid/317508798?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="7142f9564f5fb64d0c120ea9fc82f0d4" group-title="Event" tvg-chno="365",Event 804
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="7142f9564f5fb64d0c120ea9fc82f0d4" group-title="Event" tvg-chno="279",Event 804
 http://192.167.2.32:9981/stream/channelid/1459176049?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="2ef45461e4167b876fb313918a3d5cd0" group-title="Event" tvg-chno="366",Mosaic
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="2ef45461e4167b876fb313918a3d5cd0" group-title="Event" tvg-chno="280",Mosaic
 http://192.167.2.32:9981/stream/channelid/1632957486?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/MZIGm1R.png" tvg-id="93ff55a9a2e4845d11c6685e2f01bd43" group-title="Event" tvg-chno="367",Meliã Hotels International
+#EXTINF:-1 logo="https://i.imgur.com/MZIGm1R.png" tvg-id="93ff55a9a2e4845d11c6685e2f01bd43" group-title="Event" tvg-chno="281",Meliã Hotels International
 http://192.167.2.32:9981/stream/channelid/693501843?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/MZIGm1R.png" tvg-id="b77116d673d2668c1ab97d01d25f3b72" group-title="Event" tvg-chno="368",Meliã Hotels International
+#EXTINF:-1 logo="https://i.imgur.com/MZIGm1R.png" tvg-id="b77116d673d2668c1ab97d01d25f3b72" group-title="Event" tvg-chno="282",Meliã Hotels International
 http://192.167.2.32:9981/stream/channelid/1444311479?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/0uCFndD.png" tvg-id="3bef90e881de541a7650abd47ef9727b" group-title="Event" tvg-chno="369",Vin Pearl
+#EXTINF:-1 logo="https://i.imgur.com/0uCFndD.png" tvg-id="3bef90e881de541a7650abd47ef9727b" group-title="Event" tvg-chno="283",Vin Pearl
 http://192.167.2.32:9981/stream/channelid/1754328891?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/mceQLHA.png" tvg-id="b55bbd54a9e67327dadf5351c20427bb" group-title="Event" tvg-chno="370",Laguna Lăng Cô
+#EXTINF:-1 logo="https://i.imgur.com/mceQLHA.png" tvg-id="b55bbd54a9e67327dadf5351c20427bb" group-title="Event" tvg-chno="284",Laguna Lăng Cô
 http://192.167.2.32:9981/stream/channelid/1421695925?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/QzD6Gv0.png" tvg-id="5ce7d4f73e95cf3fdb7bbbf141da539c" group-title="Event" tvg-chno="371",Marriott Bonvoy
+#EXTINF:-1 logo="https://i.imgur.com/QzD6Gv0.png" tvg-id="5ce7d4f73e95cf3fdb7bbbf141da539c" group-title="Event" tvg-chno="285",Marriott Bonvoy
 http://192.167.2.32:9981/stream/channelid/2010441564?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="8495cb759eb5a69a2e607048de274dd8" group-title="Event" tvg-chno="372",MyTV Promo
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="8495cb759eb5a69a2e607048de274dd8" group-title="Event" tvg-chno="286",MyTV Promo
 http://192.167.2.32:9981/stream/channelid/1976276356?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="1e2468ed5a65c54dd2534dd8553f7dcc" group-title="Event" tvg-chno="373",MyTV Promo
+#EXTINF:-1 logo="https://i.imgur.com/NWtbAS5.png" tvg-id="1e2468ed5a65c54dd2534dd8553f7dcc" group-title="Event" tvg-chno="287",MyTV Promo
 http://192.167.2.32:9981/stream/channelid/1835541534?profile=pass
