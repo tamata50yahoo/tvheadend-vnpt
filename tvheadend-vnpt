@@ -106,7 +106,7 @@ http://192.167.2.32:9981/stream/channelid/1416974235?profile=pass
 
 #---HTV---#
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv1.png" tvg-id="htv1hd" group-title="HTV/HTVC" tvg-chno="48",HTV1 (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv1.png" tvg-id="htv1" group-title="HTV/HTVC" tvg-chno="48",HTV1 (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1655524282?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="htv2hd" group-title="HTV/HTVC" tvg-chno="49",HTV2 Vie Channel (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1604139065?profile=pass
@@ -130,7 +130,7 @@ http://192.167.2.32:9981/stream/channelid/455685588?profile=pass
 http://192.167.2.32:9981/stream/channelid/1420312874?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphunuhd.png" tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-chno="59",HTVC Phụ Nữ (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1323385760?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviet.png" tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-chno="60",HTVC Thuần Việt (HD 4Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviet.png" tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-chno="60",HTVC Thuần Việt (HD 4Mbps)
 http://192.167.2.32:9981/stream/channelid/2439151?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-chno="61",HTVC+ (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/430065473?profile=pass
