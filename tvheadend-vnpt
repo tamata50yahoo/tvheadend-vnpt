@@ -583,7 +583,7 @@ http://192.167.2.32:9981/stream/channelid/2065729353?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" tvg-id="dongthap2" group-title="Địa phương" tvg-chno="269",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
 http://192.167.2.32:9981/stream/channelid/1048188878?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang1" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang2" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
 http://192.167.2.32:9981/stream/channelid/704581239?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="camau" group-title="Địa phương" tvg-chno="271",CTV | Báo và Đài PTTH Cà Mau
 http://192.167.2.32:9981/stream/channelid/2026294566?profile=pass
