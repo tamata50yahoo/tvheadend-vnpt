@@ -306,7 +306,7 @@ http://192.167.2.32:9981/stream/channelid/2087274922?profile=pass
 http://192.167.2.32:9981/stream/channelid/60573478?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/dw.png" tvg-id="dw" group-title="Quốc tế" tvg-chno="137",DW (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1934057274?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id=",fashionhd" group-title="Quốc tế" tvg-chno="138",FashionTV
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="fashionhd" group-title="Quốc tế" tvg-chno="138",FashionTV
 http://192.167.2.32:9981/stream/channelid/303248065?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/fashionhd.png" tvg-id="fashionhd" group-title="Quốc tế" tvg-chno="139",Fashion TV (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1902146012?profile=pass
@@ -316,7 +316,7 @@ http://192.167.2.32:9981/stream/channelid/1178322805?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/outdoorhd.png" tvg-id="outdoorhd" group-title="Quốc tế" tvg-chno="141",Outdoor Channel
 http://192.167.2.32:9981/stream/channelid/226108048?profile=pass
 
-#EXTINF:-1 logo="https://vnepg.site/logos/168.png" tvg-id="travelliving" group-title="Quốc tế" tvg-chno="142",Travel Living
+#EXTINF:-1 logo="https://vnepg.site/logos/168.png" tvg-id="tlchd" group-title="Quốc tế" tvg-chno="142",TLC
 http://192.167.2.32:9981/stream/channelid/114256736?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/YyYy7jy.png" tvg-id="tve" group-title="Quốc tế" tvg-chno="143",TVE (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/868878150?profile=pass
@@ -477,7 +477,7 @@ http://192.167.2.32:9981/stream/channelid/1860370694?profile=pass
 http://192.167.2.32:9981/stream/channelid/1471954369?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" tvg-id="haiphong" group-title="Địa phương" tvg-chno="217",THP | Báo và PTTH Hải Phòng (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1417051614?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="haiduong" group-title="Địa phương" tvg-chno="218",THP3 | Báo và PTTH Hải Phòng (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="haiphong" group-title="Địa phương" tvg-chno="218",THP3 | Báo và PTTH Hải Phòng (HD 8Mbps)
 http://192.167.2.32:9981/stream/channelid/174740978?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" tvg-id="hungyen" group-title="Địa phương" tvg-chno="219",HY HD | Báo và PTTH Hưng Yên (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1079017264?profile=pass
@@ -500,7 +500,7 @@ http://192.167.2.32:9981/stream/channelid/1754334517?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/anvienhd.png" tvg-id="anvienhd" group-title="Địa phương" tvg-chno="228",BTV9 B Channel (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/381949417?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang" group-title="Địa phương" tvg-chno="229",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang2.png" tvg-id="angiang2" group-title="Địa phương" tvg-chno="229",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1245751576?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" tvg-id="quangninh1" group-title="Địa phương" tvg-chno="230",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1191259568?profile=pass
@@ -528,7 +528,7 @@ http://192.167.2.32:9981/stream/channelid/9364916?profile=pass
 http://192.167.2.32:9981/stream/channelid/874059829?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" tvg-id="haiphong" group-title="Địa phương" tvg-chno="242",THP | Báo và PTTH Hải Phòng
 http://192.167.2.32:9981/stream/channelid/1737000275?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="haiduong" group-title="Địa phương" tvg-chno="243",THP3 | Báo và PTTH Hải Phòng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="haiphong" group-title="Địa phương" tvg-chno="243",THP3 | Báo và PTTH Hải Phòng
 http://192.167.2.32:9981/stream/channelid/2088373064?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" tvg-id="hungyen" group-title="Địa phương" tvg-chno="244",HY | Báo và PTTH Hưng Yên
 http://192.167.2.32:9981/stream/channelid/355105277?profile=pass
@@ -568,28 +568,28 @@ http://192.167.2.32:9981/stream/channelid/739058032?profile=pass
 http://192.167.2.32:9981/stream/channelid/1719383017?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" tvg-id="daklak" group-title="Địa phương" tvg-chno="262",DRT | Báo và PTTH Đắk Lắk
 http://192.167.2.32:9981/stream/channelid/188911143?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="lamdong" group-title="Địa phương" tvg-chno="263",LTV | Báo và PTTH Lâm Đồng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="lamdong1" group-title="Địa phương" tvg-chno="263",LTV | Báo và PTTH Lâm Đồng
 http://192.167.2.32:9981/stream/channelid/1377226815?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="lamdong" group-title="Địa phương" tvg-chno="264",LTV | Báo và PTTH Lâm Đồng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" tvg-id="lamdong1" group-title="Địa phương" tvg-chno="264",LTV | Báo và PTTH Lâm Đồng
 http://192.167.2.32:9981/stream/channelid/1243267532?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai2.png" tvg-id="dongnai2" group-title="Địa phương" tvg-chno="265",ĐNRTV2 | Báo và Đài PTTH Đồng Nai
 http://192.167.2.32:9981/stream/channelid/1984298142?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/longan.png" tvg-id="longan" group-title="Địa phương" tvg-chno="266",TTV1 | Báo và PTTH Tây Ninh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/longan.png" tvg-id="tayninh1" group-title="Địa phương" tvg-chno="266",TTV1 | Báo và PTTH Tây Ninh
 http://192.167.2.32:9981/stream/channelid/215287355?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/vungtau.png" tvg-id="vungtau" group-title="Địa phương" tvg-chno="267",BRT | Đài PTTH Bà Rịa Vũng Tàu
 http://192.167.2.32:9981/stream/channelid/930832596?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" tvg-id="dongthap" group-title="Địa phương" tvg-chno="268",THĐT1 | Báo và Đài PTTH Đồng Tháp
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" tvg-id="dongthap1" group-title="Địa phương" tvg-chno="268",THĐT1 | Báo và Đài PTTH Đồng Tháp
 http://192.167.2.32:9981/stream/channelid/2065729353?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" tvg-id="tiengiang" group-title="Địa phương" tvg-chno="269",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" tvg-id="dongthap2" group-title="Địa phương" tvg-chno="269",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
 http://192.167.2.32:9981/stream/channelid/1048188878?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang1" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
 http://192.167.2.32:9981/stream/channelid/704581239?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="camau" group-title="Địa phương" tvg-chno="271",CTV | Báo và Đài PTTH Cà Mau
 http://192.167.2.32:9981/stream/channelid/2026294566?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="camau" group-title="Địa phương" tvg-chno="272",CTV | Báo và Đài PTTH Cà Mau
 http://192.167.2.32:9981/stream/channelid/2095160137?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/soctrang.png" tvg-id="soctrang" group-title="Địa phương" tvg-chno="273",THTPCT | Đài PTTH Thành phố Cần Thơ
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/soctrang.png" tvg-id="cantho2" group-title="Địa phương" tvg-chno="273",THTPCT | Đài PTTH Thành phố Cần Thơ
 http://192.167.2.32:9981/stream/channelid/454893373?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/haiduong.png" tvg-id="haiduong" group-title="Địa phương" tvg-chno="274",THP3 | Báo và PTTH Hải Phòng
 http://192.167.2.32:9981/stream/channelid/1101131849?profile=pass
