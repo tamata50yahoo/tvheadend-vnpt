@@ -500,7 +500,7 @@ http://192.167.2.32:9981/stream/channelid/1754334517?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/anvienhd.png" tvg-id="anvienhd" group-title="Địa phương" tvg-chno="228",BTV9 B Channel (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/381949417?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang2.png" tvg-id="angiang2" group-title="Địa phương" tvg-chno="229",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang2" group-title="Địa phương" tvg-chno="229",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1245751576?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" tvg-id="quangninh1" group-title="Địa phương" tvg-chno="230",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
 http://192.167.2.32:9981/stream/channelid/1191259568?profile=pass
@@ -583,7 +583,7 @@ http://192.167.2.32:9981/stream/channelid/2065729353?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" tvg-id="dongthap2" group-title="Địa phương" tvg-chno="269",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
 http://192.167.2.32:9981/stream/channelid/1048188878?profile=pass
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang2.png" tvg-id="angiang2" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" tvg-id="angiang2" group-title="Địa phương" tvg-chno="270",ATV2 | Báo và PTTH An Giang
 http://192.167.2.32:9981/stream/channelid/704581239?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" tvg-id="camau" group-title="Địa phương" tvg-chno="271",CTV | Báo và Đài PTTH Cà Mau
 http://192.167.2.32:9981/stream/channelid/2026294566?profile=pass
