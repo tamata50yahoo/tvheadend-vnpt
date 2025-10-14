@@ -12,14 +12,14 @@ http://192.167.2.32:9981/stream/channelid/371745901?profile=pass
 http://192.167.2.32:9981/stream/channelid/208545554?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv3hd.png" tvg-id="vtv3hd" group-title="VTV" tvg-chno="3",VTV3 (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1228542420?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv4hd.png" tvg-id="vtv4hd" group-title="VTV" tvg-chno="4",VTV4 (HD 7Mbps)
-http://192.167.2.32:9981/stream/channelid/526308919?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv4hd.png" tvg-id="vtv4hd" group-title="VTV" tvg-chno="5",VTV4 (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv4hd.png" tvg-id="vtv4hd" group-title="VTV" tvg-chno="4",VTV4 (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/294938506?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv5hd.png" tvg-id="vtv5hd" group-title="VTV" tvg-chno="6",VTV5 (HD 6.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv5hd.png" tvg-id="vtv5hd" group-title="VTV" tvg-chno="5",VTV5 (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/596094699?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtvcantho.png" tvg-id="vtvcantho" group-title="VTV" tvg-chno="7",VTV Cần Thơ (HD 6.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtvcantho.png" tvg-id="vtvcantho" group-title="VTV" tvg-chno="6",VTV Cần Thơ (HD 6.5Mbps)
 http://192.167.2.32:9981/stream/channelid/1698375542?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv7hd.png" tvg-id="vtv7hd" group-title="VTV" tvg-chno="7",VTV7 (HD 8.5Mbps)
+http://192.167.2.32:9981/stream/channelid/975951795?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv8hd.png" tvg-id="vtv8hd" group-title="VTV" tvg-chno="8",VTV8 (HD 8.5Mbps)
 http://192.167.2.32:9981/stream/channelid/2052435515?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/qpvnhd.png" tvg-id="qpvnhd" group-title="VTV" tvg-chno="9",QPVN (HD 7.5Mbps)
