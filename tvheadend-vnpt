@@ -52,61 +52,6 @@ http://192.168.56.162:9981/stream/channelid/1094755962?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/vtv5hdtn.png" tvg-id="vtv5hdtn" group-title="VTV" tvg-chno="22",VTV5 Tây Nguyên (HD 8.5Mbps)
 http://192.168.56.162:9981/stream/channelid/1269969391?profile=pass
 
-#---K+---#
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kcinehd.png" tvg-id="kcinehd" group-title="K+" tvg-chno="34",K+ Cine (HD 9Mbps)
-http://192.168.56.162:9981/stream/channelid/980617204?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kaction.png" tvg-id="kaction" group-title="K+" tvg-chno="35",K+ Action (HD 9Mbps)
-http://192.168.56.162:9981/stream/channelid/673952617?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ksport1hd.png" tvg-id="ksport1hd" group-title="K+" tvg-chno="36",K+ Sport 1 (HD 9Mbps)
-http://192.168.56.162:9981/stream/channelid/1361757391?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ksport2hd.png" tvg-id="ksport2hd" group-title="K+" tvg-chno="37",K+ Sport 2 (HD 9Mbps)
-http://192.168.56.162:9981/stream/channelid/1416974235?profile=pass
-
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kkidshd.png" tvg-id="kkidshd" group-title="K+" tvg-chno="38",K+ Kids (HD 9Mbps)
-http://192.168.56.162:9981/stream/channelid/415614064?profile=pass
-
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kcinehd.png" tvg-id="kcinehd" group-title="K+" tvg-chno="39",K+ Cine
-http://192.168.56.162:9981/stream/channelid/264483895?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kaction.png" tvg-id="kaction" group-title="K+" tvg-chno="40",K+ Action
-http://192.168.56.162:9981/stream/channelid/1070455671?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ksport1hd.png" tvg-id="ksport1hd" group-title="K+" tvg-chno="41",K+ Sport 1
-http://192.168.56.162:9981/stream/channelid/929907883?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ksport2hd.png" tvg-id="ksport2hd" group-title="K+" tvg-chno="42",K+ Sport 2
-http://192.168.56.162:9981/stream/channelid/1253662945?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kkidshd.png" tvg-id="kkidshd" group-title="K+" tvg-chno="43",K+ Kids
-http://192.168.56.162:9981/stream/channelid/1488243769?profile=pass
-
-#---HTV---#
-
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv1.png" tvg-id="htv1" group-title="HTV/HTVC" tvg-chno="48",HTV1 (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/1655524282?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="htv2hd" group-title="HTV/HTVC" tvg-chno="49",HTV2 Vie Channel (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/1604139065?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv3.png" tvg-id="htv3" group-title="HTV/HTVC" tvg-chno="50",HTV3 (HD 8Mbps)
-http://192.168.56.162:9981/stream/channelid/149081051?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvkey.png" tvg-id="htvkey" group-title="HTV/HTVC" tvg-chno="51",HTV Keys (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/374867939?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv7hd.png" tvg-id="htv7hd" group-title="HTV/HTVC" tvg-chno="52",HTV7 (HD 8.5Mbps)
-http://192.168.56.162:9981/stream/channelid/1552061590?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv9hd.png" tvg-id="htv9hd" group-title="HTV/HTVC" tvg-chno="53",HTV9 (HD 8.5Mbps)
-http://192.168.56.162:9981/stream/channelid/1256068783?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvthethaohd.png" tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-chno="54",HTV Thể Thao (HD 9.5Mbps)
-http://192.168.56.162:9981/stream/channelid/161572768?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvccanhachd.png" tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-chno="55",HTVC Ca Nhạc (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/858054782?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcdulichhd.png" tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-chno="56",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/1464769685?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcgiadinhhd.png" tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-chno="57",HTVC Gia Đình (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/455685588?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-chno="58",HTVC Phim (HD 4.5Mbps)
-http://192.168.56.162:9981/stream/channelid/1420312874?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphunuhd.png" tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-chno="59",HTVC Phụ Nữ (HD 6Mbps)
-http://192.168.56.162:9981/stream/channelid/1323385760?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviethd.png" tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-chno="60",HTVC Thuần Việt (HD 4Mbps)
-http://192.168.56.162:9981/stream/channelid/2439151?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-chno="61",HTVC+ (HD 8Mbps)
-http://192.168.56.162:9981/stream/channelid/430065473?profile=pass
-
 #------------------------5.3 SCTV APP------------------------#
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV1 HD
@@ -170,6 +115,37 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg",SCTV PTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+
+#---HTV---#
+
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv1.png" tvg-id="htv1" group-title="HTV/HTVC" tvg-chno="48",HTV1 (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/1655524282?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv2hd.png" tvg-id="htv2hd" group-title="HTV/HTVC" tvg-chno="49",HTV2 Vie Channel (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/1604139065?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv3.png" tvg-id="htv3" group-title="HTV/HTVC" tvg-chno="50",HTV3 (HD 8Mbps)
+http://192.168.56.162:9981/stream/channelid/149081051?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvkey.png" tvg-id="htvkey" group-title="HTV/HTVC" tvg-chno="51",HTV Keys (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/374867939?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv7hd.png" tvg-id="htv7hd" group-title="HTV/HTVC" tvg-chno="52",HTV7 (HD 8.5Mbps)
+http://192.168.56.162:9981/stream/channelid/1552061590?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htv9hd.png" tvg-id="htv9hd" group-title="HTV/HTVC" tvg-chno="53",HTV9 (HD 8.5Mbps)
+http://192.168.56.162:9981/stream/channelid/1256068783?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvthethaohd.png" tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-chno="54",HTV Thể Thao (HD 9.5Mbps)
+http://192.168.56.162:9981/stream/channelid/161572768?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvccanhachd.png" tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-chno="55",HTVC Ca Nhạc (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/858054782?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcdulichhd.png" tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-chno="56",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/1464769685?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcgiadinhhd.png" tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-chno="57",HTVC Gia Đình (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/455685588?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphimhd.png" tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-chno="58",HTVC Phim (HD 4.5Mbps)
+http://192.168.56.162:9981/stream/channelid/1420312874?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcphunuhd.png" tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-chno="59",HTVC Phụ Nữ (HD 6Mbps)
+http://192.168.56.162:9981/stream/channelid/1323385760?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcthuanviethd.png" tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-chno="60",HTVC Thuần Việt (HD 4Mbps)
+http://192.168.56.162:9981/stream/channelid/2439151?profile=pass
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/htvcplushd.png" tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-chno="61",HTVC+ (HD 8Mbps)
+http://192.168.56.162:9981/stream/channelid/430065473?profile=pass
 
 #---VTVCab---#
 
