@@ -436,33 +436,33 @@ http://192.168.56.162:9981/stream/channelid/935152231?profile=pass
 
 #---Địa phương---#
 
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" group-title="Địa phương" tvg-id="53b7d33ddce18cdd66088cceb0f0ef6f" tvg-chno="215",THVL1 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" group-title="Địa phương" tvg-id="53b7d33ddce18cdd66088cceb0f0ef6f" tvg-chno="215",THVL1 HD | PTTH Vĩnh Long (HD 7Mbps)
 http://192.168.56.162:9981/stream/channelid/1037285203?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" group-title="Địa phương" tvg-id="48a4079d00bd9794b0ad0be5ff40bc81" tvg-chno="216",THVL2 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" group-title="Địa phương" tvg-id="48a4079d00bd9794b0ad0be5ff40bc81" tvg-chno="216",THVL2 HD | PTTH Vĩnh Long (HD 8Mbps)
 http://192.168.56.162:9981/stream/channelid/487040072?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" group-title="Địa phương" tvg-id="b94a87bd35bdd93709c8207b5be962b6" tvg-chno="218",THVL3 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" group-title="Địa phương" tvg-id="b94a87bd35bdd93709c8207b5be962b6" tvg-chno="218",THVL3 HD | PTTH Vĩnh Long (HD 7Mbps)
 http://192.168.56.162:9981/stream/channelid/1032276665?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" group-title="Địa phương" tvg-id="0984e9c6d2499ded52a308ae83215baa" tvg-chno="219",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" group-title="Địa phương" tvg-id="0984e9c6d2499ded52a308ae83215baa" tvg-chno="219",THVL4 HD | PTTH Vĩnh Long (HD 7Mbps)
 http://192.168.56.162:9981/stream/channelid/1189708809?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" group-title="Địa phương" tvg-id="fb4986f33c72bb5ac04f01630086c8c2" tvg-chno="221",THVL1 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" group-title="Địa phương" tvg-id="fb4986f33c72bb5ac04f01630086c8c2" tvg-chno="221",THVL1 | PTTH Vĩnh Long
 http://192.168.56.162:9981/stream/channelid/1938180603?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" group-title="Địa phương" tvg-id="0fd17f20e9ee31ca63123d6d67622c13" tvg-chno="222",THVL2 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" group-title="Địa phương" tvg-id="0fd17f20e9ee31ca63123d6d67622c13" tvg-chno="222",THVL2 | PTTH Vĩnh Long
 http://192.168.56.162:9981/stream/channelid/545247503?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" group-title="Địa phương" tvg-id="9c6dd0fec1d2674b1bf7e99672811602" tvg-chno="223",THVL3 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong3hd.png" group-title="Địa phương" tvg-id="9c6dd0fec1d2674b1bf7e99672811602" tvg-chno="223",THVL3 | PTTH Vĩnh Long
 http://192.168.56.162:9981/stream/channelid/2127588764?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" group-title="Địa phương" tvg-id="ce75c50f8bf830b68e6c8dc8694491ab" tvg-chno="224",THVL4 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong4hd.png" group-title="Địa phương" tvg-id="ce75c50f8bf830b68e6c8dc8694491ab" tvg-chno="224",THVL4 | PTTH Vĩnh Long
 http://192.168.56.162:9981/stream/channelid/264598990?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" group-title="Địa phương" tvg-id="6684923d9a910a06ddf307e80f8d8417" tvg-chno="225",THVL2 | Báo và Đài PTTH Vĩnh Long
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong2hd.png" group-title="Địa phương" tvg-id="6684923d9a910a06ddf307e80f8d8417" tvg-chno="225",THVL2 | PTTH Vĩnh Long
 http://192.168.56.162:9981/stream/channelid/1033012326?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thainguyen.png" group-title="Địa phương" tvg-id="14041256e73dfdaf9c0718704479066e" tvg-chno="227",TN | Báo và PTTH Thái Nguyên (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thainguyen.png" group-title="Địa phương" tvg-id="14041256e73dfdaf9c0718704479066e" tvg-chno="227",TN | PTTH Thái Nguyên (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/1444021268?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" group-title="Địa phương" tvg-id="8f28fe57aa42ec03c822bab7c627cf77" tvg-chno="229",PTV HD | Báo và Đài PTTH Phú Thọ (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" group-title="Địa phương" tvg-id="8f28fe57aa42ec03c822bab7c627cf77" tvg-chno="229",PTV HD | PTTH Phú Thọ (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/1476274319?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" group-title="Địa phương" tvg-id="202f40368361d4795e8f447aa81aba62" tvg-chno="231",BTV | Báo và PTTH Bắc Ninh (HD 7.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" group-title="Địa phương" tvg-id="202f40368361d4795e8f447aa81aba62" tvg-chno="231",BTV | PTTH Bắc Ninh (HD 7.5Mbps)
 http://192.168.56.162:9981/stream/channelid/910176032?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/caobang.png" group-title="Địa phương" tvg-id="8c2411c457301537197cad867a260d5c" tvg-chno="233",CRTV | Báo Cao Bằng (HD 6.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/caobang.png" group-title="Địa phương" tvg-id="8c2411c457301537197cad867a260d5c" tvg-chno="233",CRTV | Cao Bằng (HD 6.5Mbps)
 http://192.168.56.162:9981/stream/channelid/1141974156?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/langson.png" group-title="Địa phương" tvg-id="1c0d1fe2b35638422ba7660039cfc272" tvg-chno="234",LSTV HD | Báo và Đài PTTH Lạng Sơn (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/langson.png" group-title="Địa phương" tvg-id="1c0d1fe2b35638422ba7660039cfc272" tvg-chno="234",LSTV HD | PTTH Lạng Sơn (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/1646202140?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" group-title="Địa phương" tvg-id="cb171c80a51228f49e15c61457e8b77b" tvg-chno="235",QTV1 HD | Trung tâm Truyền thông Quảng Ninh (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/1841099?profile=pass
@@ -472,39 +472,39 @@ http://192.168.56.162:9981/stream/channelid/1611043320?profile=pass
 http://192.168.56.162:9981/stream/channelid/1528405369?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/hanoi2.png" group-title="Địa phương" tvg-id="e8bbf5379c2cd162396a219b2523309f" tvg-chno="238",H2 HD | Đài Hà Nội (HD 4Mbps)
 http://192.168.56.162:9981/stream/channelid/938851304?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" group-title="Địa phương" tvg-id="c149347db7d78370fa8a45e0c58dbedd" tvg-chno="239",THP | Báo và PTTH Hải Phòng (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" group-title="Địa phương" tvg-id="c149347db7d78370fa8a45e0c58dbedd" tvg-chno="239",THP | PTTH Hải Phòng (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/2100578753?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphongplus.png" group-title="Địa phương" tvg-id="f5a5870355a6cbf1ed74fc598720ab41" tvg-chno="240",THP+ | Báo và PTTH Hải Phòng (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphongplus.png" group-title="Địa phương" tvg-id="f5a5870355a6cbf1ed74fc598720ab41" tvg-chno="240",THP+ | PTTH Hải Phòng (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/59221493?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" group-title="Địa phương" tvg-id="e942f5135352d3d8cd5005e478ff79e2" tvg-chno="242",HY HD | Báo và PTTH Hưng Yên (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" group-title="Địa phương" tvg-id="e942f5135352d3d8cd5005e478ff79e2" tvg-chno="242",HY HD | PTTH Hưng Yên (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/334840553?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" group-title="Địa phương" tvg-id="0c0721d43832112ffe53c316aaf7977b" tvg-chno="243",NBTV HD | Báo và Đài PTTH Ninh Bình (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" group-title="Địa phương" tvg-id="0c0721d43832112ffe53c316aaf7977b" tvg-chno="243",NBTV HD | PTTH Ninh Bình (HD 8Mbps)
 http://192.168.56.162:9981/stream/channelid/1411450636?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" group-title="Địa phương" tvg-id="49d96d1b59bda589fea879ba2104d63f" tvg-chno="244",TTV | Báo và Đài PTTH Thanh Hóa (HD 7.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" group-title="Địa phương" tvg-id="49d96d1b59bda589fea879ba2104d63f" tvg-chno="244",TTV | PTTH Thanh Hóa (HD 7.5Mbps)
 http://192.168.56.162:9981/stream/channelid/460183881?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" group-title="Địa phương" tvg-id="c6e2b49b3f44445428a965d6390ade1c" tvg-chno="245",NTV HD | Báo và Đài PTTH Nghệ An (HD 5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" group-title="Địa phương" tvg-id="c6e2b49b3f44445428a965d6390ade1c" tvg-chno="245",NTV HD | PTTH Nghệ An (HD 5Mbps)
 http://192.168.56.162:9981/stream/channelid/464839366?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" group-title="Địa phương" tvg-id="40916d149159bec2561e31cfcd67f7be" tvg-chno="246",BHTTV | Báo Hà Tĩnh (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" group-title="Địa phương" tvg-id="40916d149159bec2561e31cfcd67f7be" tvg-chno="246",BHTTV | Hà Tĩnh (HD 8.5Mbps)
 http://192.168.56.162:9981/stream/channelid/342724928?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" group-title="Địa phương" tvg-id="adc34689579b56cfb018bf4cf7c9d3dd" tvg-chno="247",QTTV | Báo và PTTH Quảng Trị (HD 7.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" group-title="Địa phương" tvg-id="adc34689579b56cfb018bf4cf7c9d3dd" tvg-chno="247",QTTV | PTTH Quảng Trị (HD 7.5Mbps)
 http://192.168.56.162:9981/stream/channelid/155632557?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="57e4ea06e1da1e40cc139c6ae8342ad0" tvg-chno="248",QNgTV | Báo và PTTH Quảng Ngãi (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="57e4ea06e1da1e40cc139c6ae8342ad0" tvg-chno="248",QNgTV | PTTH Quảng Ngãi (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/116057175?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="73585e9520b5fb927f82698d1c319533" tvg-chno="249",QNgTV | Báo và PTTH Quảng Ngãi (HD 5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="73585e9520b5fb927f82698d1c319533" tvg-chno="249",QNgTV | PTTH Quảng Ngãi (HD 5Mbps)
 http://192.168.56.162:9981/stream/channelid/358504563?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" group-title="Địa phương" tvg-id="ed6b43c4541ca00cfa80dbfbea76a8e4" tvg-chno="250",DRT HD | Báo và PTTH Đắk Lắk (HD 5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" group-title="Địa phương" tvg-id="ed6b43c4541ca00cfa80dbfbea76a8e4" tvg-chno="250",DRT HD | PTTH Đắk Lắk (HD 5Mbps)
 http://192.168.56.162:9981/stream/channelid/1145269229?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/anvienhd.png" group-title="Địa phương" tvg-id="9cfbba0dd4026b1521557a9dd26f2064" tvg-chno="252",BTV9 B Channel (HD 8.5Mbps)
 http://192.168.56.162:9981/stream/channelid/230357916?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai1.png" group-title="Địa phương" tvg-id="a8018a172b2827a71169af21c35fcf70" tvg-chno="253",ĐNRTV1 HD | Báo và Đài PTTH Đồng Nai (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai1.png" group-title="Địa phương" tvg-id="a8018a172b2827a71169af21c35fcf70" tvg-chno="253",ĐNRTV1 HD | PTTH Đồng Nai (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/394920360?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" group-title="Địa phương" tvg-id="8cf347cb8478666990f6b382d76d44c2" tvg-chno="256",THĐT1 | Báo và Đài PTTH Đồng Tháp (HD 8Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" group-title="Địa phương" tvg-id="8cf347cb8478666990f6b382d76d44c2" tvg-chno="256",THĐT1 | PTTH Đồng Tháp (HD 8Mbps)
 http://192.168.56.162:9981/stream/channelid/1263006604?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" group-title="Địa phương" tvg-id="d74312d421b43d83678b44a7da15da29" tvg-chno="257",THTG HD | Báo Ấp Bắc và Đài PTTH Tiền Giang (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" group-title="Địa phương" tvg-id="d74312d421b43d83678b44a7da15da29" tvg-chno="257",THTG HD | PTTH Tiền Giang (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/1410483159?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kiengiang.png" group-title="Địa phương" tvg-id="b22d21fd968eccb72e744b95e0403c55" tvg-chno="258",ATV1 | Báo và PTTH An Giang (HD 6Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/kiengiang.png" group-title="Địa phương" tvg-id="b22d21fd968eccb72e744b95e0403c55" tvg-chno="258",ATV1 | PTTH An Giang (HD 6Mbps)
 http://192.168.56.162:9981/stream/channelid/2099326386?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" group-title="Địa phương" tvg-id="b3b3500cd1b91fa76c383e95732c8ebb" tvg-chno="259",ATV2 | Báo và PTTH An Giang (HD 8.5Mbps)
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" group-title="Địa phương" tvg-id="b3b3500cd1b91fa76c383e95732c8ebb" tvg-chno="259",ATV2 | PTTH An Giang (HD 8.5Mbps)
 http://192.168.56.162:9981/stream/channelid/206615475?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/soctrang.png" group-title="Địa phương" tvg-id="61e43b06ef19199e87464d91de30991c" tvg-chno="260",THTPCT | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 http://192.168.56.162:9981/stream/channelid/104588385?profile=pass
@@ -512,25 +512,25 @@ http://192.168.56.162:9981/stream/channelid/104588385?profile=pass
 http://192.168.56.162:9981/stream/channelid/107891884?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh3.png" group-title="Địa phương" tvg-id="dd318bd1dbfe3be0f2f729fc25061eb3" tvg-chno="262",QTV3 HD | Trung tâm Truyền thông Quảng Ninh (HD 6.5Mbps)
 http://192.168.56.162:9981/stream/channelid/1368076765?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" group-title="Địa phương" tvg-id="c31813183a451fa75f674bdd42859b2b" tvg-chno="263",THLC | Báo Lào Cai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/laocai.png" group-title="Địa phương" tvg-id="c31813183a451fa75f674bdd42859b2b" tvg-chno="263",THLC Lào Cai
 http://192.168.56.162:9981/stream/channelid/403904707?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dienbien.png" group-title="Địa phương" tvg-id="c3d939b0b73fb9ba4c1f144d62de2068" tvg-chno="265",ĐTV | Báo Điện Biên Phủ
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dienbien.png" group-title="Địa phương" tvg-id="c3d939b0b73fb9ba4c1f144d62de2068" tvg-chno="265",ĐTV Điện Biên Phủ
 http://192.168.56.162:9981/stream/channelid/809097667?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/laichau.png" group-title="Địa phương" tvg-id="553eff145c2d1357b5346207db43fd48" tvg-chno="266",LTV | Báo Lai Châu
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/laichau.png" group-title="Địa phương" tvg-id="553eff145c2d1357b5346207db43fd48" tvg-chno="266",LTV | Lai Châu
 http://192.168.56.162:9981/stream/channelid/352271957?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/sonla.png" group-title="Địa phương" tvg-id="15753b9f33b760d83d6d2e07d9884e55" tvg-chno="267",STV | Báo và PTTH Sơn La
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/sonla.png" group-title="Địa phương" tvg-id="15753b9f33b760d83d6d2e07d9884e55" tvg-chno="267",STV | PTTH Sơn La
 http://192.168.56.162:9981/stream/channelid/523990293?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tuyenquang.png" group-title="Địa phương" tvg-id="700d80d6f67d14bf913710b8cd7176c0" tvg-chno="269",TTV | Báo và Đài PTTH Tuyên Quang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tuyenquang.png" group-title="Địa phương" tvg-id="700d80d6f67d14bf913710b8cd7176c0" tvg-chno="269",TTV | PTTH Tuyên Quang
 http://192.168.56.162:9981/stream/channelid/1451232624?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/caobang.png" group-title="Địa phương" tvg-id="140d2c4e2ca9ed18aafd53eded592770" tvg-chno="270",CRTV | Báo Cao Bằng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/caobang.png" group-title="Địa phương" tvg-id="140d2c4e2ca9ed18aafd53eded592770" tvg-chno="270",CRTV | Cao Bằng
 http://192.168.56.162:9981/stream/channelid/1311509780?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thainguyen.png" group-title="Địa phương" tvg-id="5aa261aa052b033a14ee41a43b45455c" tvg-chno="272",TN | Báo và PTTH Thái Nguyên
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thainguyen.png" group-title="Địa phương" tvg-id="5aa261aa052b033a14ee41a43b45455c" tvg-chno="272",TN | PTTH Thái Nguyên
 http://192.168.56.162:9981/stream/channelid/711041626?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/langson.png" group-title="Địa phương" tvg-id="fb61990ed9ca49eb83eea30c44a81dc5" tvg-chno="273",LSTV HD | Báo và Đài PTTH Lạng Sơn
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/langson.png" group-title="Địa phương" tvg-id="fb61990ed9ca49eb83eea30c44a81dc5" tvg-chno="273",LSTV HD | PTTH Lạng Sơn
 http://192.168.56.162:9981/stream/channelid/244933115?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" group-title="Địa phương" tvg-id="1526eb9263fbb2e3c8fa98641833fbc3" tvg-chno="274",PTV | Báo và Đài PTTH Phú Thọ
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/phutho.png" group-title="Địa phương" tvg-id="1526eb9263fbb2e3c8fa98641833fbc3" tvg-chno="274",PTV | PTTH Phú Thọ
 http://192.168.56.162:9981/stream/channelid/317400597?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" group-title="Địa phương" tvg-id="7c522f71bf01172d08bc3d8f56193027" tvg-chno="277",BTV | Báo và PTTH Bắc Ninh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/bacninh.png" group-title="Địa phương" tvg-id="7c522f71bf01172d08bc3d8f56193027" tvg-chno="277",BTV | PTTH Bắc Ninh
 http://192.168.56.162:9981/stream/channelid/1898926716?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/quangninh1.png" group-title="Địa phương" tvg-id="e0316575e2c5a7dcc91ce6079ee4f3af" tvg-chno="279",QTV1 | Trung tâm Truyền thông Quảng Ninh
 http://192.168.56.162:9981/stream/channelid/1969566176?profile=pass
@@ -538,59 +538,59 @@ http://192.168.56.162:9981/stream/channelid/1969566176?profile=pass
 http://192.168.56.162:9981/stream/channelid/1696703617?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/hanoi2.png" group-title="Địa phương" tvg-id="abff510bb82eac1ce0e98e4594555783" tvg-chno="281",H2 | Đài Hà Nội
 http://192.168.56.162:9981/stream/channelid/189923243?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" group-title="Địa phương" tvg-id="3a924cb4a8e844fb7e943e7fc96932e2" tvg-chno="282",THP | Báo và PTTH Hải Phòng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphong.png" group-title="Địa phương" tvg-id="3a924cb4a8e844fb7e943e7fc96932e2" tvg-chno="282",THP | PTTH Hải Phòng
 http://192.168.56.162:9981/stream/channelid/877433402?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphongplus.png" group-title="Địa phương" tvg-id="d816aca6c9e0fb8de6da2f57cd1d2cde" tvg-chno="283",THP+ | Báo và PTTH Hải Phòng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/haiphongplus.png" group-title="Địa phương" tvg-id="d816aca6c9e0fb8de6da2f57cd1d2cde" tvg-chno="283",THP+ | PTTH Hải Phòng
 http://192.168.56.162:9981/stream/channelid/648812248?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" group-title="Địa phương" tvg-id="120e01f806eb857b4c7d50c21adcf8f1" tvg-chno="285",HY | Báo và PTTH Hưng Yên
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hungyen.png" group-title="Địa phương" tvg-id="120e01f806eb857b4c7d50c21adcf8f1" tvg-chno="285",HY | PTTH Hưng Yên
 http://192.168.56.162:9981/stream/channelid/2013335058?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" group-title="Địa phương" tvg-id="f7c268ba0aac72ac6fcb020d730c5497" tvg-chno="289",NBTV | Báo và Đài PTTH Ninh Bình
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/ninhbinh.png" group-title="Địa phương" tvg-id="f7c268ba0aac72ac6fcb020d730c5497" tvg-chno="289",NBTV | PTTH Ninh Bình
 http://192.168.56.162:9981/stream/channelid/979944183?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" group-title="Địa phương" tvg-id="5b5301c552d8b597dc184bcd7ba1a4d1" tvg-chno="290",TTV | Báo và Đài PTTH Thanh Hóa
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/thanhhoa.png" group-title="Địa phương" tvg-id="5b5301c552d8b597dc184bcd7ba1a4d1" tvg-chno="290",TTV | PTTH Thanh Hóa
 http://192.168.56.162:9981/stream/channelid/1157714779?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" group-title="Địa phương" tvg-id="b674a580b8bc473f642f213912f7f1bf" tvg-chno="291",NTV | Báo và Đài PTTH Nghệ An
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/nghean.png" group-title="Địa phương" tvg-id="b674a580b8bc473f642f213912f7f1bf" tvg-chno="291",NTV | PTTH Nghệ An
 http://192.168.56.162:9981/stream/channelid/10843318?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" group-title="Địa phương" tvg-id="b77ee236e9f9e4af23ebe6af77844ca7" tvg-chno="292",BHTTV | Báo Hà Tĩnh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hatinh.png" group-title="Địa phương" tvg-id="b77ee236e9f9e4af23ebe6af77844ca7" tvg-chno="292",BHTTV | Hà Tĩnh
 http://192.168.56.162:9981/stream/channelid/920813239?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" group-title="Địa phương" tvg-id="72acfeef61ad80a1995bfe83cf70bc7c" tvg-chno="294",QTTV | Báo và PTTH Quảng Trị
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangtri.png" group-title="Địa phương" tvg-id="72acfeef61ad80a1995bfe83cf70bc7c" tvg-chno="294",QTTV | PTTH Quảng Trị
 http://192.168.56.162:9981/stream/channelid/1878961266?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/hue.png" group-title="Địa phương" tvg-id="2b3eb29c2c2609084368dca2bb77216d" tvg-chno="295",HUETV | Báo và PTTH Huế
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/hue.png" group-title="Địa phương" tvg-id="2b3eb29c2c2609084368dca2bb77216d" tvg-chno="295",HUETV | PTTH Huế
 http://192.168.56.162:9981/stream/channelid/481443371?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang1.png" group-title="Địa phương" tvg-id="66b1da34c4cb4c157099f459886bbede" tvg-chno="296",ĐNRT1 | Báo và Đài PTTH Đà Nẵng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang1.png" group-title="Địa phương" tvg-id="66b1da34c4cb4c157099f459886bbede" tvg-chno="296",ĐNRT1 | PTTH Đà Nẵng
 http://192.168.56.162:9981/stream/channelid/886747494?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang2.png" group-title="Địa phương" tvg-id="e5ee676691838cd893c415c2af6d16e0" tvg-chno="297",ĐNRT2 | Báo và Đài PTTH Đà Nẵng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/danang2.png" group-title="Địa phương" tvg-id="e5ee676691838cd893c415c2af6d16e0" tvg-chno="297",ĐNRT2 | PTTH Đà Nẵng
 http://192.168.56.162:9981/stream/channelid/1718087397?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="840353d65c8bf7d667ba4c444fa61039" tvg-chno="299",QNgTV | Báo và PTTH Quảng Ngãi
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="840353d65c8bf7d667ba4c444fa61039" tvg-chno="299",QNgTV | PTTH Quảng Ngãi
 http://192.168.56.162:9981/stream/channelid/1448280964?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="9b32d124228bd53ef9983887fff3de21" tvg-chno="300",QNgTV | Báo và PTTH Quảng Ngãi
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/quangngai.png" group-title="Địa phương" tvg-id="9b32d124228bd53ef9983887fff3de21" tvg-chno="300",QNgTV | PTTH Quảng Ngãi
 http://192.168.56.162:9981/stream/channelid/617689755?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/khanhhoa.png" group-title="Địa phương" tvg-id="630ffae3d33692e067d4f5b5ee38841d" tvg-chno="301",KTV | Báo và PTTH Khánh Hòa
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/khanhhoa.png" group-title="Địa phương" tvg-id="630ffae3d33692e067d4f5b5ee38841d" tvg-chno="301",KTV | PTTH Khánh Hòa
 http://192.168.56.162:9981/stream/channelid/1677332323?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/khanhhoa.png" group-title="Địa phương" tvg-id="6256ff29fbceea87c654f3f81da388cd" tvg-chno="302",KTV1 | Báo và PTTH Khánh Hòa
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/khanhhoa.png" group-title="Địa phương" tvg-id="6256ff29fbceea87c654f3f81da388cd" tvg-chno="302",KTV1 | PTTH Khánh Hòa
 http://192.168.56.162:9981/stream/channelid/704599650?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/gialai.png" group-title="Địa phương" tvg-id="26a67708ef327ebdd3604d45a3379e9b" tvg-chno="304",GTV | Báo và PTTH Gia Lai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/gialai.png" group-title="Địa phương" tvg-id="26a67708ef327ebdd3604d45a3379e9b" tvg-chno="304",GTV | PTTH Gia Lai
 http://192.168.56.162:9981/stream/channelid/142059046?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" group-title="Địa phương" tvg-id="446f1ccb76d1316c92f3c21f3d89d4f7" tvg-chno="306",DRT | Báo và PTTH Đắk Lắk
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/daklak.png" group-title="Địa phương" tvg-id="446f1ccb76d1316c92f3c21f3d89d4f7" tvg-chno="306",DRT | PTTH Đắk Lắk
 http://192.168.56.162:9981/stream/channelid/1260154692?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" group-title="Địa phương" tvg-id="56c300c5b8b476b2c263e63ebe82bdee" tvg-chno="307",LTV | Báo và PTTH Lâm Đồng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" group-title="Địa phương" tvg-id="56c300c5b8b476b2c263e63ebe82bdee" tvg-chno="307",LTV | PTTH Lâm Đồng
 http://192.168.56.162:9981/stream/channelid/1157677910?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" group-title="Địa phương" tvg-id="4d8ead4db6c0d5c4dd302e5dd00fb928" tvg-chno="309",LTV | Báo và PTTH Lâm Đồng
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/lamdong.png" group-title="Địa phương" tvg-id="4d8ead4db6c0d5c4dd302e5dd00fb928" tvg-chno="309",LTV | PTTH Lâm Đồng
 http://192.168.56.162:9981/stream/channelid/1303219789?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai1.png" group-title="Địa phương" tvg-id="3a5a54da987365c50b3ffe718523ff2e" tvg-chno="312",ĐNRTV1 | Báo và Đài PTTH Đồng Nai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai1.png" group-title="Địa phương" tvg-id="3a5a54da987365c50b3ffe718523ff2e" tvg-chno="312",ĐNRTV1 | PTTH Đồng Nai
 http://192.168.56.162:9981/stream/channelid/1515477562?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai2.png" group-title="Địa phương" tvg-id="51d3dcb641008bb20d2a881db6f81cdb" tvg-chno="314",ĐNRTV2 | Báo và Đài PTTH Đồng Nai
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongnai2.png" group-title="Địa phương" tvg-id="51d3dcb641008bb20d2a881db6f81cdb" tvg-chno="314",ĐNRTV2 | PTTH Đồng Nai
 http://192.168.56.162:9981/stream/channelid/920441681?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/longan.png" group-title="Địa phương" tvg-id="04a90b736375d1253a1448192e5b2807" tvg-chno="315",TTV1 | Báo và PTTH Tây Ninh
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/longan.png" group-title="Địa phương" tvg-id="04a90b736375d1253a1448192e5b2807" tvg-chno="315",TTV1 | PTTH Tây Ninh
 http://192.168.56.162:9981/stream/channelid/1930144004?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" group-title="Địa phương" tvg-id="aefb40f2991977938d56c55ac06218d4" tvg-chno="318",THĐT1 | Báo và Đài PTTH Đồng Tháp
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/dongthap.png" group-title="Địa phương" tvg-id="aefb40f2991977938d56c55ac06218d4" tvg-chno="318",THĐT1 | PTTH Đồng Tháp
 http://192.168.56.162:9981/stream/channelid/1916861358?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" group-title="Địa phương" tvg-id="f8b1a947ae056cd3f247b0a5d7fc3b26" tvg-chno="319",THTG | Báo Ấp Bắc và Đài PTTH Tiền Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/tiengiang.png" group-title="Địa phương" tvg-id="f8b1a947ae056cd3f247b0a5d7fc3b26" tvg-chno="319",THTG | Đài PTTH Tiền Giang
 http://192.168.56.162:9981/stream/channelid/1202303480?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/kiengiang.png" group-title="Địa phương" tvg-id="9f4030b9e3244853872ea6cfa8ed9aa1" tvg-chno="320",ATV1 | Báo và PTTH An Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/kiengiang.png" group-title="Địa phương" tvg-id="9f4030b9e3244853872ea6cfa8ed9aa1" tvg-chno="320",ATV1 | PTTH An Giang
 http://192.168.56.162:9981/stream/channelid/959463583?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" group-title="Địa phương" tvg-id="256043d9ba8ce4ee2216a07e365bd470" tvg-chno="321",ATV2 | Báo và PTTH An Giang
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/angiang.png" group-title="Địa phương" tvg-id="256043d9ba8ce4ee2216a07e365bd470" tvg-chno="321",ATV2 | PTTH An Giang
 http://192.168.56.162:9981/stream/channelid/1497587749?profile=pass
-#EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" group-title="Địa phương" tvg-id="b249ab83efe5235d7e271c09cee37c91" tvg-chno="323",CTV | Báo và Đài PTTH Cà Mau
+#EXTINF:-1 logo="https://tv.ddns.vn/logo/camau.png" group-title="Địa phương" tvg-id="b249ab83efe5235d7e271c09cee37c91" tvg-chno="323",CTV | PTTH Cà Mau
 http://192.168.56.162:9981/stream/channelid/61557170?profile=pass
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/soctrang.png" group-title="Địa phương" tvg-id="6e96c0eadb441105d0df2ef22dbe4999" tvg-chno="324",THTPCT | Đài PTTH Thành phố Cần Thơ
 http://192.168.56.162:9981/stream/channelid/1791006318?profile=pass
