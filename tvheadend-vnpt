@@ -435,6 +435,52 @@ http://192.168.56.162:9981/stream/channelid/1782112258?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/3jlwft1.png" group-title="Quốc tế" tvg-id="674abd3796cb423b6fcab1ef526fdb92" tvg-chno="214",Xing Kong
 http://192.168.56.162:9981/stream/channelid/935152231?profile=pass
 
+#---SCTV---#
+#EXTINF:-1 tvg-id="mytv_766" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="Kênh SCTV", SCTV - Phim Tổng hợp
+https://besttv.hainghia.net/scanmytv/television.php?id=766
+#EXTINF:-1 tvg-id="mytv_769" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="Kênh SCTV", SCTV1
+https://besttv.hainghia.net/scanmytv/television.php?id=769
+#EXTINF:-1 tvg-id="mytv_772" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="Kênh SCTV", SCTV2
+https://besttv.hainghia.net/scanmytv/television.php?id=772
+#EXTINF:-1 tvg-id="mytv_775" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="Kênh SCTV", SCTV3
+https://besttv.hainghia.net/scanmytv/television.php?id=775
+#EXTINF:-1 tvg-id="mytv_778" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="Kênh SCTV", SCTV4
+https://besttv.hainghia.net/scanmytv/television.php?id=778
+#EXTINF:-1 tvg-id="mytv_781" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="Kênh SCTV", SCTV6
+https://besttv.hainghia.net/scanmytv/television.php?id=781
+#EXTINF:-1 tvg-id="mytv_784" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="Kênh SCTV", SCTV7
+https://besttv.hainghia.net/scanmytv/television.php?id=784
+#EXTINF:-1 tvg-id="mytv_787" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png" group-title="Kênh SCTV", SCTV8
+https://besttv.hainghia.net/scanmytv/television.php?id=787
+#EXTINF:-1 tvg-id="mytv_790" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png" group-title="Kênh SCTV", SCTV9
+https://besttv.hainghia.net/scanmytv/television.php?id=790
+#EXTINF:-1 tvg-id="mytv_793" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png" group-title="Kênh SCTV", SCTV11
+https://besttv.hainghia.net/scanmytv/television.php?id=793
+#EXTINF:-1 tvg-id="mytv_796" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/93/38/8d/da/a2/2c/938da-psctv12dulch-channel-unkn.png" group-title="Kênh SCTV", SCTV12
+https://besttv.hainghia.net/scanmytv/television.php?id=796
+#EXTINF:-1 tvg-id="mytv_799" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e3/32/20/0b/bc/c3/e320b-psctv13ladytv-channel-unkn.png" group-title="Kênh SCTV", SCTV13
+https://besttv.hainghia.net/scanmytv/television.php?id=799
+#EXTINF:-1 tvg-id="mytv_802" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/38/8e/e8/8a/ac/c6/38e8a-psctv14phimvitnam-channel-unkn.png" group-title="Kênh SCTV", SCTV14
+https://besttv.hainghia.net/scanmytv/television.php?id=802
+#EXTINF:-1 tvg-id="mytv_805" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e2/2b/b9/90/05/54/e2b90-psctv16-channel-unkn.png" group-title="Kênh SCTV", SCTV16
+https://besttv.hainghia.net/scanmytv/television.php?id=805
+#EXTINF:-1 tvg-id="mytv_808" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png" group-title="Kênh SCTV", SCTV18
+https://besttv.hainghia.net/scanmytv/television.php?id=808
+#EXTINF:-1 tvg-id="mytv_811" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png" group-title="Kênh SCTV", SCTV19
+https://besttv.hainghia.net/scanmytv/television.php?id=811
+#EXTINF:-1 tvg-id="mytv_814" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png" group-title="Kênh SCTV", SCTV20
+https://besttv.hainghia.net/scanmytv/television.php?id=814
+#EXTINF:-1 tvg-id="mytv_817" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png" group-title="Kênh SCTV", SCTV21
+https://besttv.hainghia.net/scanmytv/television.php?id=817
+#EXTINF:-1 tvg-id="mytv_823" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="Kênh SCTV", SCTV15 - SSportT2
+https://besttv.hainghia.net/scanmytv/television.php?id=823
+#EXTINF:-1 tvg-id="mytv_826" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="Kênh SCTV", SCTV17 - Ssport
+https://besttv.hainghia.net/scanmytv/television.php?id=826
+#EXTINF:-1 tvg-id="mytv_829" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="Kênh SCTV", SCTV 22 - SSportT1
+https://besttv.hainghia.net/scanmytv/television.php?id=829
+#EXTINF:-1 tvg-id="mytv_339" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/85/52/2c/cd/d8/8f/852cd-pknh0-channel-unkn.png" group-title="Kênh SCTV", VNPT Promo
+https://besttv.hainghia.net/scanmytv/television.php?id=339
+
 #---Địa phương---#
 
 #EXTINF:-1 logo="https://tv.ddns.vn/logo/vinhlong1hd.png" group-title="Địa phương" tvg-id="53b7d33ddce18cdd66088cceb0f0ef6f" tvg-chno="215",THVL1 HD | PTTH Vĩnh Long (HD 7Mbps)
