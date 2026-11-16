@@ -480,6 +480,9 @@ http://tvv6996.hainghia.net:880/scanmytv/television.php?id=826
 http://tvv6996.hainghia.net:880/scanmytv/television.php?id=829
 #EXTINF:-1 tvg-id="mytv_339" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/85/52/2c/cd/d8/8f/852cd-pknh0-channel-unkn.png" group-title="Kênh SCTV", VNPT Promo
 http://tvv6996.hainghia.net:880/scanmytv/television.php?id=339
+#---FPT Play---#
+#EXTINF:-1 tvg-id="fpt-play" tvg-name="Chuỗi Thể thao & Giải trí" group-title="Kênh SCTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/transparent-logo-270x159_1790071426858.png",Chuỗi Thể thao & Giải trí
+http://tvv6996.hainghia.net:880/scanfpt/television.php?id=fpt-play
 
 #---Địa phương---#
 
